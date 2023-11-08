@@ -17,13 +17,6 @@ class _FeedPageState extends ConsumerState<FeedPage> {
   @override
   Widget build(BuildContext context) {
     final feedState = ref.watch(feedVmProvider);
-    // return ListView.builder(
-    //   itemCount: 6,
-    //   padding: const EdgeInsets.fromLTRB(16, 16, 16, 0),
-    //   itemBuilder: (context, index) {
-    //     return const CardPackage();
-    //   },
-    // );
     return feedState.when(
       data: (data) {
         return CustomScrollView(
@@ -31,9 +24,7 @@ class _FeedPageState extends ConsumerState<FeedPage> {
             SliverList(
               delegate: SliverChildBuilderDelegate(
                 (context, index) =>
-                    // HomeEmployeeTile(employee: data.employees[index]),
                     CardPackage(stickerPack: data.stickerPacks[index]),
-                // childCount: data.employees.length,
                 childCount: data.stickerPacks.length,
               ),
             )

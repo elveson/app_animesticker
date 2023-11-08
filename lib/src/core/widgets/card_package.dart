@@ -16,7 +16,7 @@ class CardPackage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      margin: const EdgeInsets.fromLTRB(16, 16, 16, 8),
+      margin: const EdgeInsets.fromLTRB(16, 16, 16, 0),
       decoration: BoxDecoration(
         borderRadius: BorderRadius.circular(15),
       ),
@@ -67,26 +67,36 @@ class CardPackage extends StatelessWidget {
                           const SizedBox(
                             height: 8,
                           ),
-                          const Row(
+                          Row(
                             // final stickerLenght = stickerPack.stickers.length;
                             mainAxisAlignment: MainAxisAlignment.spaceBetween,
                             children: [
                               StickerContent(
                                 widthSticker: 46,
                                 heightSticker: 46,
+                                pathPackage: stickerPack.identifier,
+                                pathSticker: stickerPack.stickers[0].imageFile,
                               ),
                               StickerContent(
                                 widthSticker: 46,
                                 heightSticker: 46,
+                                pathPackage: stickerPack.identifier,
+                                pathSticker: stickerPack.stickers[1].imageFile,
                               ),
                               StickerContent(
                                 widthSticker: 46,
                                 heightSticker: 46,
+                                pathPackage: stickerPack.identifier,
+                                pathSticker: stickerPack.stickers[2].imageFile,
                               ),
                               StickerContent(
                                 widthSticker: 46,
                                 heightSticker: 46,
                                 isAmountSticker: true,
+                                pathPackage: stickerPack.identifier,
+                                pathSticker: stickerPack.stickers[3].imageFile,
+                                amountSticker: (stickerPack.stickers.length - 4)
+                                    .toString(),
                               ),
                             ],
                           ),
