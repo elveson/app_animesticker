@@ -25,18 +25,20 @@ class StickerContent extends StatelessWidget {
       width: 46,
       height: 46,
       decoration: BoxDecoration(
+        color: isAmountSticker ? ColorsConstantsLight.colorBlack : null,
         borderRadius: BorderRadius.circular(5),
         image: DecorationImage(
           image: AssetImage('assets/packages/$pathPackage/$pathSticker'),
           fit: BoxFit.cover,
+          opacity: isAmountSticker ? 0.5 : 1,
         ),
       ),
       child: isAmountSticker
-          ? const Align(
+          ? Align(
               alignment: Alignment.center,
               child: Text(
-                '26',
-                style: TextStyle(
+                '+$amountSticker',
+                style: const TextStyle(
                   fontSize: 16,
                   fontWeight: FontWeight.w600,
                   letterSpacing: -0.32,

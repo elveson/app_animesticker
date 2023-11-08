@@ -11,17 +11,6 @@ sealed class AnimeStickerTheme {
       backgroundColor: ColorsConstantsLight.colorGrayLight,
     ),
     scaffoldBackgroundColor: ColorsConstantsLight.colorGrayMedium,
-    outlinedButtonTheme: OutlinedButtonThemeData(
-      style: OutlinedButton.styleFrom(
-        backgroundColor: ColorsConstantsLight.colorGrayLight,
-        textStyle: TextStyle(
-          fontFamily: GoogleFonts.openSans().fontFamily,
-        ),
-        shape: RoundedRectangleBorder(
-          borderRadius: BorderRadius.circular(19.64),
-        ),
-      ),
-    ),
     bottomNavigationBarTheme: BottomNavigationBarThemeData(
       backgroundColor: ColorsConstantsLight.colorGrayLight,
       selectedItemColor: ColorsConstantsLight.colorPrimary,
@@ -34,6 +23,26 @@ sealed class AnimeStickerTheme {
       unselectedLabelStyle: TextStyle(
         fontFamily: GoogleFonts.openSans().fontFamily,
         color: ColorsConstantsLight.subtle2,
+      ),
+    ),
+    outlinedButtonTheme: OutlinedButtonThemeData(
+      style: OutlinedButton.styleFrom(
+        foregroundColor: ColorsConstantsLight.colorPrimary,
+        backgroundColor: ColorsConstantsLight.colorGrayLight,
+        padding: const EdgeInsets.symmetric(
+          vertical: 7.07,
+          horizontal: 15.708,
+        ),
+        textStyle: TextStyle(
+          fontFamily: GoogleFonts.openSans().fontFamily,
+        ),
+        shape: RoundedRectangleBorder(
+          borderRadius: BorderRadius.circular(19.635),
+        ),
+        side: const BorderSide(
+          color: ColorsConstantsLight.colorPrimary,
+          width: 0.655,
+        ),
       ),
     ),
     elevatedButtonTheme: ElevatedButtonThemeData(

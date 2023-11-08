@@ -27,7 +27,6 @@ class CardPackage extends StatelessWidget {
         borderRadius: BorderRadius.circular(15),
         child: Container(
           height: 156.1435,
-          // margin: const EdgeInsets.only(bottom: 16),
           padding: const EdgeInsets.all(16),
           decoration: BoxDecoration(
             color: ColorsConstantsLight.colorGrayLight,
@@ -133,33 +132,21 @@ class CardPackage extends StatelessWidget {
                           ),
                         ],
                       ),
-                      SizedBox(
-                        height: 28.14,
-                        child: OutlinedButton.icon(
-                          onPressed: () {},
-                          icon: const ImageIcon(
-                            AssetImage("assets/icons/whatsapp.png"),
+                      OutlinedButton.icon(
+                        onPressed: () {},
+                        icon: const ImageIcon(
+                          AssetImage("assets/icons/whatsapp.png"),
+                          color: ColorsConstantsLight.colorPrimary,
+                          size: 11.06,
+                        ),
+                        label: Text(
+                          "Steal package",
+                          style: TextStyle(
+                            fontFamily: GoogleFonts.openSans().fontFamily,
+                            fontWeight: FontWeight.w600,
+                            fontSize: 10,
+                            letterSpacing: -0.5,
                             color: ColorsConstantsLight.colorPrimary,
-                            size: 11.06,
-                          ),
-                          label: Text(
-                            "Steal package",
-                            style: TextStyle(
-                              fontFamily: GoogleFonts.openSans().fontFamily,
-                              fontWeight: FontWeight.w600,
-                              fontSize: 15,
-                              letterSpacing: -0.5,
-                              color: ColorsConstantsLight.colorPrimary,
-                            ),
-                          ),
-                          style: OutlinedButton.styleFrom(
-                            padding: const EdgeInsets.symmetric(
-                                vertical: 11.78, horizontal: 15.70),
-                            alignment: Alignment.center,
-                            side: const BorderSide(
-                              color: ColorsConstantsLight.colorPrimary,
-                              width: 0.655,
-                            ),
                           ),
                         ),
                       ),
