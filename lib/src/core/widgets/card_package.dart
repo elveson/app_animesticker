@@ -22,7 +22,7 @@ class CardPackage extends StatelessWidget {
       ),
       child: InkWell(
         onTap: () {
-          Navigator.pushNamed(context, '/package');
+          Navigator.pushNamed(context, '/package', arguments: stickerPack);
         },
         borderRadius: BorderRadius.circular(15),
         child: Container(
@@ -67,7 +67,6 @@ class CardPackage extends StatelessWidget {
                             height: 8,
                           ),
                           Row(
-                            // final stickerLenght = stickerPack.stickers.length;
                             mainAxisAlignment: MainAxisAlignment.spaceBetween,
                             children: [
                               StickerContent(

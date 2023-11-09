@@ -78,6 +78,9 @@ flutter:
     - assets/packages/Anime_Ahegao_VI/
     - assets/packages/Anime_Ahegao_VII/
     - assets/packages/Anime_Ahegao_VIII/
+    - assets/packages/Anime_Araburu_I/
+    - assets/packages/Anime_Araburu_II/
+    - assets/packages/Anime_Black_Clover_IV/
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
