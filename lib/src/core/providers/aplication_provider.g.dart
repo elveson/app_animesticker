@@ -36,5 +36,20 @@ final stickerPackRepositoryProvider = Provider<StickerPackRepository>.internal(
 );
 
 typedef StickerPackRepositoryRef = ProviderRef<StickerPackRepository>;
+String _$animeRepositoryHash() => r'0c1b21cb6bd7e13a34cf6e4623c56c13cdc2ae3b';
+
+/// See also [animeRepository].
+@ProviderFor(animeRepository)
+final animeRepositoryProvider = Provider<AnimeRepository>.internal(
+  animeRepository,
+  name: r'animeRepositoryProvider',
+  debugGetCreateSourceHash: const bool.fromEnvironment('dart.vm.product')
+      ? null
+      : _$animeRepositoryHash,
+  dependencies: null,
+  allTransitiveDependencies: null,
+);
+
+typedef AnimeRepositoryRef = ProviderRef<AnimeRepository>;
 // ignore_for_file: type=lint
 // ignore_for_file: subtype_of_sealed_class, invalid_use_of_internal_member, invalid_use_of_visible_for_testing_member

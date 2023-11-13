@@ -70,6 +70,8 @@ flutter:
   assets:
     - assets/icons/
     - assets/packages/
+    - assets/animes_profiles/
+    - assets/animes_profiles/anime_profiles/
     - assets/packages/Anime_Ahegao_I/
     - assets/packages/Anime_Ahegao_II/
     - assets/packages/Anime_Ahegao_III/
@@ -81,6 +83,38 @@ flutter:
     - assets/packages/Anime_Araburu_I/
     - assets/packages/Anime_Araburu_II/
     - assets/packages/Anime_Black_Clover_IV/
+    - assets/packages/Anime_Love_Live_I/
+    - assets/packages/Anime_Love_Live_II/
+    - assets/packages/Anime_Love_Live_III/
+    - assets/packages/Anime_Love_Live_IV/
+    - assets/packages/Anime_Love_Live_V/
+    - assets/packages/Anime_Love_Live_VI/
+    - assets/packages/Anime_Mirai_Nikki/
+    - assets/packages/Anime_One_Piece_I/
+    - assets/packages/Anime_One_Piece_II/
+    - assets/packages/Anime_One_Piece_III/
+    - assets/packages/Anime_overlord/
+    - assets/packages/Anime_Re_Zero_I/
+    - assets/packages/Anime_Re_Zero_II/
+    - assets/packages/Anime_Sword_Art_I/
+    - assets/packages/Anime_Sword_Art_II/
+    - assets/packages/Anime_Sword_Art_III/
+    - assets/packages/Anime_Sword_Art_IV/
+    - assets/packages/Anime_Sword_Art_V/
+    - assets/packages/Anime_Sword_Art_VI/
+    - assets/packages/Anime_Vocaloid_I/
+    - assets/packages/Anime_Vocaloid_II/
+    - assets/packages/Anime_Vocaloid_III/
+    - assets/packages/Anime_JoJos_Bizarre_Adventure_II/
+    - assets/packages/Anime_JoJos_Bizarre_Adventure_III/
+    - assets/packages/Anime_Kaguya_Sama_I/
+    - assets/packages/Anime_Kaguya_Sama_II/
+    - assets/packages/Anime_Kaguya_Sama_III/
+    - assets/packages/Anime_Kaguya_Sama_IV/
+    - assets/packages/Anime_Kaguya_Sama_V/
+    - assets/packages/Anime_Kaifuku_Jutsushi_no_Yarinaoshi_I/
+    - assets/packages/Anime_Kaifuku_Jutsushi_no_Yarinaoshi_II/
+    - assets/packages/Anime_Kaifuku_Jutsushi_no_Yarinaoshi_III/
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see

@@ -1,9 +1,15 @@
 import 'package:app_animesticker/src/core/ui/constants.dart';
 import 'package:app_animesticker/src/core/widgets/card_photo_anime.dart';
+import 'package:app_animesticker/src/model/anime_model.dart';
 import 'package:flutter/material.dart';
 
 class CardAnime extends StatelessWidget {
-  const CardAnime({super.key});
+  final AnimeModel animeModel;
+
+  const CardAnime({
+    super.key,
+    required this.animeModel,
+  });
 
   @override
   Widget build(BuildContext context) {

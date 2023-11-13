@@ -1,5 +1,6 @@
 import 'package:app_animesticker/src/core/ui/constants.dart';
 import 'package:app_animesticker/src/core/widgets/logo.dart';
+import 'package:app_animesticker/src/core/widgets/side_menu.dart';
 import 'package:app_animesticker/src/features/category/category_page.dart';
 import 'package:app_animesticker/src/features/feed/feed_page.dart';
 
@@ -32,14 +33,6 @@ class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        leading: IconButton(
-          icon: const ImageIcon(
-            AssetImage('assets/icons/menu_left.png'),
-            color: ColorsConstantsLight.colorText,
-          ),
-          tooltip: 'Menu de navegação',
-          onPressed: () => Scaffold.of(context).openDrawer(),
-        ),
         centerTitle: true,
         title: const Logo(),
         actions: <Widget>[
@@ -52,29 +45,16 @@ class _HomePageState extends State<HomePage> {
             onPressed: () {},
           ),
         ],
-      ),
-      drawer: Drawer(
-        child: ListView(
-          padding: EdgeInsets.zero,
-          children: <Widget>[
-            const DrawerHeader(
-              child: Text('Menu'),
-            ),
-            ListTile(
-              title: const Text('Item 1'),
-              onTap: () {
-                Navigator.pop(context);
-              },
-            ),
-            ListTile(
-              title: const Text('Item 2'),
-              onTap: () {
-                Navigator.pop(context);
-              },
-            ),
-          ],
+        leading: IconButton(
+          icon: const ImageIcon(
+            AssetImage('assets/icons/menu_left.png'),
+            color: ColorsConstantsLight.colorText,
+          ),
+          tooltip: 'Menu de navegação',
+          onPressed: () {},
         ),
       ),
+      // drawer: const SideMenu(),
       body: _pages[_currentIndex],
       bottomNavigationBar: BottomNavigationBar(
         items: const [

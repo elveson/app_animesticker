@@ -1,9 +1,15 @@
+import 'dart:developer';
+
+import 'package:app_animesticker/src/core/providers/aplication_provider.dart';
 import 'package:app_animesticker/src/core/ui/constants.dart';
+import 'package:app_animesticker/src/core/widgets/anime_sticker_loader.dart';
+import 'package:app_animesticker/src/features/category/category_vm.dart';
 import 'package:app_animesticker/src/features/category/widget/card_anime.dart';
 import 'package:app_animesticker/src/features/category/widget/search_widget.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
 
-class CategoryPage extends StatelessWidget {
+class CategoryPage extends ConsumerWidget {
   final bool isLetterSelected;
 
   const CategoryPage({
@@ -12,7 +18,9 @@ class CategoryPage extends StatelessWidget {
   });
 
   @override
-  Widget build(BuildContext context) {
+  Widget build(BuildContext context, WidgetRef ref) {
+    final animeState = ref.watch(categoryVmProvider);
+
     return Column(
       children: [
         const Padding(
@@ -25,38 +33,53 @@ class CategoryPage extends StatelessWidget {
             child: Row(
               children: [
                 Expanded(
-                  child: CustomScrollView(
-                    slivers: [
-                      SliverList(
-                        delegate: SliverChildBuilderDelegate(
-                          childCount: 1,
-                          (context, index) {
-                            return GridView.builder(
-                              physics: const NeverScrollableScrollPhysics(),
-                              shrinkWrap: true,
-                              itemCount: 20,
-                              gridDelegate:
-                                  const SliverGridDelegateWithFixedCrossAxisCount(
-                                crossAxisCount: 3,
-                                crossAxisSpacing: 20,
-                                mainAxisSpacing: 16,
-                                childAspectRatio: 90.9 / 161,
-                              ),
-                              itemBuilder: (context, index) {
-                                return InkWell(
-                                  onTap: () {},
-                                  child: const SizedBox(
-                                    width: 90.9,
-                                    height: 161,
-                                    child: CardAnime(),
+                  child: animeState.when(
+                    data: (data) {
+                      return CustomScrollView(
+                        slivers: [
+                          SliverList(
+                            delegate: SliverChildBuilderDelegate(
+                              childCount: 1,
+                              (context, index) {
+                                return GridView.builder(
+                                  physics: const NeverScrollableScrollPhysics(),
+                                  shrinkWrap: true,
+                                  itemCount: data.animes.length,
+                                  gridDelegate:
+                                      const SliverGridDelegateWithFixedCrossAxisCount(
+                                    crossAxisCount: 3,
+                                    crossAxisSpacing: 20,
+                                    mainAxisSpacing: 16,
+                                    childAspectRatio: 90.9 / 161,
                                   ),
+                                  itemBuilder: (context, index) {
+                                    return InkWell(
+                                      onTap: () {},
+                                      child: SizedBox(
+                                        width: 90.9,
+                                        height: 161,
+                                        child: CardAnime(
+                                          animeModel: data.animes[index],
+                                        ),
+                                      ),
+                                    );
+                                  },
                                 );
                               },
-                            );
-                          },
-                        ),
-                      ),
-                    ],
+                            ),
+                          ),
+                        ],
+                      );
+                    },
+                    error: (error, stackTrace) {
+                      log('Erro ao carregar animes',
+                          error: error, stackTrace: stackTrace);
+                      return const Center(
+                          child: Text('Erro ao carregar pagina'));
+                    },
+                    loading: () {
+                      return const AnimeStickerLoader();
+                    },
                   ),
                 ),
                 const SizedBox(
