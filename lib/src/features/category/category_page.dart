@@ -1,6 +1,5 @@
 import 'dart:developer';
 
-import 'package:app_animesticker/src/core/providers/aplication_provider.dart';
 import 'package:app_animesticker/src/core/ui/constants.dart';
 import 'package:app_animesticker/src/core/widgets/anime_sticker_loader.dart';
 import 'package:app_animesticker/src/features/category/category_vm.dart';

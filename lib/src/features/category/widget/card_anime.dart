@@ -27,7 +27,7 @@ class CardAnime extends StatelessWidget {
       ),
       child: Column(
         children: [
-          const CardPhotoAnime(),
+          CardPhotoAnime(imagePath: animeModel.fileTrayImage),
           Container(
             width: 90.9,
             height: 41,
@@ -42,10 +42,10 @@ class CardAnime extends StatelessWidget {
                 bottomRight: Radius.circular(10),
               ),
             ),
-            child: const Center(
+            child: Center(
               child: Text(
-                "Akame ga Kill one oir",
-                style: TextStyle(
+                animeModel.names[0],
+                style: const TextStyle(
                   fontFamily: FontConstants.fontFamily,
                   fontSize: 11,
                   letterSpacing: 0.066,
