@@ -12,7 +12,7 @@ class AnimeRepositoryImpl implements AnimeRepository {
   Future<Either<RepositoryException, List<AnimeModel>>> getAnimeList() async {
     try {
       String jsonString = await rootBundle
-          .loadString('assets/animes_profiles/anime_profiles.json');
+          .loadString('assets/anime_profile/anime_profiles.json');
       Map<String, dynamic> jsonData = jsonDecode(jsonString);
 
       final animes = (jsonData['anime_profiles'] as List)

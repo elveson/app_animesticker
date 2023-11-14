@@ -70,8 +70,8 @@ flutter:
   assets:
     - assets/icons/
     - assets/packages/
-    - assets/animes_profiles/
-    - assets/animes_profiles/anime_profiles/
+    - assets/anime_profile/
+    - assets/anime_profile/images/
     - assets/packages/Anime_Ahegao_I/
     - assets/packages/Anime_Ahegao_II/
     - assets/packages/Anime_Ahegao_III/
