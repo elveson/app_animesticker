@@ -3,14 +3,14 @@ class AnimeModel {
   final List<String> names;
   final String fileTrayImage;
   final Map<String, String> description;
-  final Map<String, List<String>> genes;
+  final Map<String, List<String>> genres;
 
   AnimeModel({
     required this.id,
     required this.names,
     required this.fileTrayImage,
     required this.description,
-    required this.genes,
+    required this.genres,
   });
 
   factory AnimeModel.fromMap(Map<String, dynamic> json) {
@@ -20,14 +20,14 @@ class AnimeModel {
         'names': final List names,
         'file_tray_image': final String fileTrayImage,
         'description': final Map description,
-        'genes': final Map genes,
+        'genres': final Map genres,
       } =>
         AnimeModel(
           id: id,
           names: names.cast<String>(),
           fileTrayImage: fileTrayImage,
           description: description.map((key, value) => MapEntry(key, value)),
-          genes: genes.map(
+          genres: genres.map(
             (key, value) => MapEntry(key, (value).cast<String>().toList()),
           ),
         ),
