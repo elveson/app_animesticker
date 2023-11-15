@@ -18,6 +18,10 @@ class AnimeRepositoryImpl implements AnimeRepository {
       final animes = (jsonData['anime_profiles'] as List)
           .map((i) => AnimeModel.fromMap(i))
           .toList();
+
+      animes.sort(
+        (a, b) => a.names[0].compareTo(b.names[0]),
+      );
       return Success(animes);
     } on ArgumentError catch (e, s) {
       log('Json inválido', error: e, stackTrace: s);
