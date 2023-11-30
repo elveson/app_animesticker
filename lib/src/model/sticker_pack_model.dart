@@ -9,6 +9,7 @@ class StickerPackModel {
   final String publisherWebsite;
   final String privacyPolicyWebsite;
   final String licenseAgreementWebsite;
+  final bool? animatedStickerPack;
   final List<StickerModel> stickers;
 
   StickerPackModel({
@@ -20,6 +21,7 @@ class StickerPackModel {
     required this.publisherWebsite,
     required this.privacyPolicyWebsite,
     required this.licenseAgreementWebsite,
+    this.animatedStickerPack = false,
     required this.stickers,
   });
 

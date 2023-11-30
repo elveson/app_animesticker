@@ -1,16 +1,19 @@
 // ignore_for_file: public_member_api_docs, sort_constructors_first
 
+import 'package:app_animesticker/src/model/anime_model.dart';
 import 'package:app_animesticker/src/model/sticker_pack_model.dart';
 
 class StickerDataModel {
   final String? androidPlayStoreLink;
   final String? iosAppStoreLink;
-  final List<StickerPackModel> stickerPack;
+  final List<StickerPackModel> stickersPacks;
+  final List<AnimeModel> animesModel;
 
   StickerDataModel({
     this.androidPlayStoreLink,
     this.iosAppStoreLink,
-    required this.stickerPack,
+    required this.stickersPacks,
+    required this.animesModel,
   });
 
   factory StickerDataModel.fromMap(Map<String, dynamic> json) {
@@ -18,14 +21,20 @@ class StickerDataModel {
       {
         'android_play_store_link': final String androidPlayStoreLink,
         'ios_app_store_link': final String iosAppStoreLink,
-        'sticker_pack': final List stickerPack,
+        'sticker_packs': final List stickerPacks,
+        'anime_profiles': final List animeModel,
       } =>
         StickerDataModel(
           androidPlayStoreLink: androidPlayStoreLink,
           iosAppStoreLink: iosAppStoreLink,
-          stickerPack: List<StickerPackModel>.from(
-            stickerPack.map(
+          stickersPacks: List<StickerPackModel>.from(
+            stickerPacks.map(
               (e) => StickerPackModel.fromMap(e),
+            ),
+          ),
+          animesModel: List<AnimeModel>.from(
+            animeModel.map(
+              (e) => AnimeModel.fromMap(e),
             ),
           ),
         ),
