@@ -4,6 +4,7 @@
   "sticker_packs": [
     {
       "identifier": "Anime_Ahegao_I",
+      "anime_identifier": "ahegao",
       "name": "Anime Ahegões Pack I\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -121,6 +122,7 @@
     },
     {
       "identifier": "Anime_Ahegao_II",
+      "anime_identifier": "ahegao",
       "name": "Anime Ahegões Pack II\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "byTubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -238,6 +240,7 @@
     },
     {
       "identifier": "Anime_Ahegao_III",
+      "anime_identifier": "ahegao",
       "name": "Anime Ahegões Pack III\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -355,6 +358,7 @@
     },
     {
       "identifier": "Anime_Ahegao_IV",
+      "anime_identifier": "ahegao",
       "name": "Anime Ahegões Pack IV\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -472,6 +476,7 @@
     },
     {
       "identifier": "Anime_Ahegao_V",
+      "anime_identifier": "ahegao",
       "name": "Anime Ahegões Pack V\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -589,6 +594,7 @@
     },
     {
       "identifier": "Anime_Ahegao_VI",
+      "anime_identifier": "ahegao",
       "name": "Anime Ahegões Pack VI\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -706,6 +712,7 @@
     },
     {
       "identifier": "Anime_Ahegao_VII",
+      "anime_identifier": "ahegao",
       "name": "Anime Ahegões Pack VII\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "byTubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -823,6 +830,7 @@
     },
     {
       "identifier": "Anime_Ahegao_VIII",
+      "anime_identifier": "ahegao",
       "name": "Anime Ahegões Pack VIII\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "byTubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -940,6 +948,7 @@
     },
     {
       "identifier": "Anime_Araburu_I",
+      "anime_identifier": "araburu",
       "name": "Anime Araburu I\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -1057,6 +1066,7 @@
     },
     {
       "identifier": "Anime_Araburu_II",
+      "anime_identifier": "araburu",
       "name": "Anime Araburu II\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -1174,6 +1184,7 @@
     },
     {
       "identifier": "Anime_Attack_On_Titan_I",
+      "anime_identifier": "attack_on_titan",
       "name": "Anime Attack On Titan I\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -1291,6 +1302,7 @@
     },
     {
       "identifier": "Anime_Attack_On_Titan_II",
+      "anime_identifier": "attack_on_titan",
       "name": "Anime Attack On Titan II\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -1408,6 +1420,7 @@
     },
     {
       "identifier": "Anime_Attack_On_Titan_III",
+      "anime_identifier": "attack_on_titan",
       "name": "Anime Attack On Titan III\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -1525,6 +1538,7 @@
     },
     {
       "identifier": "Anime_Attack_On_Titan_IV",
+      "anime_identifier": "attack_on_titan",
       "name": "Anime Attack On Titan IV\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -1642,6 +1656,7 @@
     },
     {
       "identifier": "Anime_Attack_On_Titan_V",
+      "anime_identifier": "attack_on_titan",
       "name": "Anime Attack On Titan V\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -1759,6 +1774,7 @@
     },
     {
       "identifier": "Anime_Attack_On_Titan_VI",
+      "anime_identifier": "attack_on_titan",
       "name": "Anime Attack On Titan VI\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -1876,6 +1892,7 @@
     },
     {
       "identifier": "Anime_Attack_On_Titan_VII",
+      "anime_identifier": "attack_on_titan",
       "name": "Anime Attack On Titan VII\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -1993,6 +2010,7 @@
     },
     {
       "identifier": "Anime_Attack_On_Titan_VIII",
+      "anime_identifier": "attack_on_titan",
       "name": "Anime Attack On Titan VIII\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -2159,6 +2177,7 @@
     },
     {
       "identifier": "Anime_Attack_On_Titan_IX",
+      "anime_identifier": "attack_on_titan",
       "name": "Anime Attack On Titan IX\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -2276,6 +2295,7 @@
     },
     {
       "identifier": "Anime_Attack_On_Titan_X",
+      "anime_identifier": "attack_on_titan",
       "name": "Anime Attack On Titan X\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -2393,6 +2413,7 @@
     },
     {
       "identifier": "Anime_Attack_On_Titan_XI",
+      "anime_identifier": "attack_on_titan",
       "name": "Anime Attack On Titan XI\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -2559,6 +2580,7 @@
     },
     {
       "identifier": "Anime_Black_Clover_I",
+      "anime_identifier": "black_clover",
       "name": "Anime Black Clover I\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -2781,6 +2803,7 @@
     },
     {
       "identifier": "Anime_Black_Clover_II",
+      "anime_identifier": "black_clover",
       "name": "Anime Black Clover II\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -3003,6 +3026,7 @@
     },
     {
       "identifier": "Anime_Black_Clover_III",
+      "anime_identifier": "black_clover",
       "name": "Anime Black Clover III\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -3225,6 +3249,7 @@
     },
     {
       "identifier": "Anime_Black_Clover_IV",
+      "anime_identifier": "black_clover",
       "name": "Anime Black Clover IV\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -6001,6 +6026,7 @@
     },
     {
       "identifier": "Anime_JoJos_Bizarre_Adventure_I",
+      "anime_identifier": "jojo",
       "name": "Anime JoJo's Bizarre Adventure I\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "byTubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -6118,6 +6144,7 @@
     },
     {
       "identifier": "Anime_JoJos_Bizarre_Adventure_II",
+      "anime_identifier": "jojo",
       "name": "Anime JoJo's Bizarre Adventure II\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "byTubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -6235,6 +6262,7 @@
     },
     {
       "identifier": "Anime_JoJos_Bizarre_Adventure_III",
+      "anime_identifier": "jojo",
       "name": "Anime JoJo's Bizarre Adventure III\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "byTubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -6352,6 +6380,7 @@
     },
     {
       "identifier": "Anime_Kaguya_Sama_I",
+      "anime_identifier": "kaguya_sama",
       "name": "Anime Kaguya Sama I\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -6525,6 +6554,7 @@
     },
     {
       "identifier": "Anime_Kaguya_Sama_II",
+      "anime_identifier": "kaguya_sama",
       "name": "Anime Kaguya Sama II\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -6642,6 +6672,7 @@
     },
     {
       "identifier": "Anime_Kaguya_Sama_III",
+      "anime_identifier": "kaguya_sama",
       "name": "Anime Kaguya Sama III\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -6759,6 +6790,7 @@
     },
     {
       "identifier": "Anime_Kaguya_Sama_IV",
+      "anime_identifier": "kaguya_sama",
       "name": "Anime Kaguya Sama IV\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -6869,6 +6901,7 @@
     },
     {
       "identifier": "Anime_Kaguya_Sama_V",
+      "anime_identifier": "kaguya_sama",
       "name": "Anime Kaguya Sama V\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -7077,6 +7110,7 @@
     },
     {
       "identifier": "Anime_Kaifuku_Jutsushi_no_Yarinaoshi_I",
+      "anime_identifier": "kaifuku_jutsushi",
       "name": "Anime Kaifuku Jutsushi No Yarinaoshi I\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -7194,6 +7228,7 @@
     },
     {
       "identifier": "Anime_Kaifuku_Jutsushi_no_Yarinaoshi_II",
+      "anime_identifier": "kaifuku_jutsushi",
       "name": "Anime Kaifuku Jutsushi No Yarinaoshi II\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -7311,6 +7346,7 @@
     },
     {
       "identifier": "Anime_Kaifuku_Jutsushi_no_Yarinaoshi_III",
+      "anime_identifier": "kaifuku_jutsushi",
       "name": "Anime Kaifuku Jutsushi No Yarinaoshi III\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -7779,6 +7815,7 @@
     },
     {
       "identifier": "Anime_Konosuba_I",
+      "anime_identifier": "konosuba",
       "name": "Anime Konosuba I\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -7896,6 +7933,7 @@
     },
     {
       "identifier": "Anime_Konosuba_II",
+      "anime_identifier": "konosuba",
       "name": "Anime Konosuba II\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -8013,6 +8051,7 @@
     },
     {
       "identifier": "Anime_Konosuba_III",
+      "anime_identifier": "konosuba",
       "name": "Anime Konosuba III\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -8715,6 +8754,7 @@
     },
     {
       "identifier": "Anime_Love_Live_I",
+      "anime_identifier": "love_live",
       "name": "Anime Love Live! I\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -8832,6 +8872,7 @@
     },
     {
       "identifier": "Anime_Love_Live_II",
+      "anime_identifier": "love_live",
       "name": "Anime Love Live! II\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -8949,6 +8990,7 @@
     },
     {
       "identifier": "Anime_Love_Live_III",
+      "anime_identifier": "love_live",
       "name": "Anime Love Live! III\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -9066,6 +9108,7 @@
     },
     {
       "identifier": "Anime_Love_Live_IV",
+      "anime_identifier": "love_live",
       "name": "Anime Love Live! IV\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -9183,6 +9226,7 @@
     },
     {
       "identifier": "Anime_Love_Live_V",
+      "anime_identifier": "love_live",
       "name": "Anime Love Live! V\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -9300,6 +9344,7 @@
     },
     {
       "identifier": "Anime_Love_Live_VI",
+      "anime_identifier": "love_live",
       "name": "Anime Love Live! VI\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -9452,6 +9497,7 @@
     },
     {
       "identifier": "Anime_Mirai_Nikki",
+      "anime_identifier": "mirai_nikki",
       "name": "Anime Mirai Nikki I\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "byTubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -9569,6 +9615,7 @@
     },
     {
       "identifier": "Anime_One_Piece_I",
+      "anime_identifier": "one_piece",
       "name": "Anime One Piece I\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -9686,6 +9733,7 @@
     },
     {
       "identifier": "Anime_One_Piece_II",
+      "anime_identifier": "one_piece",
       "name": "Anime One Piece II\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -9803,6 +9851,7 @@
     },
     {
       "identifier": "Anime_One_Piece_III",
+      "anime_identifier": "one_piece",
       "name": "Anime One Piece III\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -9920,6 +9969,7 @@
     },
     {
       "identifier": "Anime_Overlord",
+      "anime_identifier": "overlord",
       "name": "Anime Overlord\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -10037,6 +10087,7 @@
     },
     {
       "identifier": "Anime_Re_Zero_I",
+      "anime_identifier": "re_zero",
       "name": "Anime Re Zero I\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -10154,6 +10205,7 @@
     },
     {
       "identifier": "Anime_Re_Zero_II",
+      "anime_identifier": "re_zero",
       "name": "Anime Re Zero II\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -10271,6 +10323,7 @@
     },
     {
       "identifier": "Anime_Sword_Art_I",
+      "anime_identifier": "sword_art_online",
       "name": "Anime Sword Art Online I\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -10388,6 +10441,7 @@
     },
     {
       "identifier": "Anime_Sword_Art_II",
+      "anime_identifier": "sword_art_online",
       "name": "Anime Sword Art Online II\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -10505,6 +10559,7 @@
     },
     {
       "identifier": "Anime_Sword_Art_III",
+      "anime_identifier": "sword_art_online",
       "name": "Anime Sword Art Online III\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -10657,6 +10712,7 @@
     },
     {
       "identifier": "Anime_Sword_Art_IV",
+      "anime_identifier": "sword_art_online",
       "name": "Anime Sword Art Online IV\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -10795,6 +10851,7 @@
     },
     {
       "identifier": "Anime_Sword_Art_V",
+      "anime_identifier": "sword_art_online",
       "name": "Anime Sword Art Online V\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -10912,6 +10969,7 @@
     },
     {
       "identifier": "Anime_Sword_Art_VI",
+      "anime_identifier": "sword_art_online",
       "name": "Anime Sword Art Online VI\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -11029,6 +11087,7 @@
     },
     {
       "identifier": "Tonikaku_Kawaii_I",
+      "anime_identifier": "tonikaku_kawaii",
       "name": "Anime Tonikaku Kawaii I\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -11146,6 +11205,7 @@
     },
     {
       "identifier": "Tonikaku_Kawaii_II",
+      "anime_identifier": "tonikaku_kawaii",
       "name": "Anime Tonikaku Kawaii II\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -11263,6 +11323,7 @@
     },
     {
       "identifier": "Anime_Vocaloid_I",
+      "anime_identifier": "volcaloid",
       "name": "Anime Vocaloid I\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -11380,6 +11441,7 @@
     },
     {
       "identifier": "Anime_Vocaloid_II",
+      "anime_identifier": "volcaloid",
       "name": "Anime Vocaloid II\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -11497,6 +11559,7 @@
     },
     {
       "identifier": "Anime_Vocaloid_III",
+      "anime_identifier": "volcaloid",
       "name": "Anime Vocaloid III\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -11628,6 +11691,7 @@
     },
     {
       "identifier": "Anime_Watashi_Ga_Motete_Dousunda_I",
+      "anime_identifier": "watashi_ga_motete",
       "name": "Anime Watashi Ga Motete Dousunda I\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -11745,6 +11809,7 @@
     },
     {
       "identifier": "Anime_Watashi_Ga_Motete_Dousunda_II",
+      "anime_identifier": "watashi_ga_motete",
       "name": "Anime Watashi Ga Motete Dousunda II\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -11862,6 +11927,7 @@
     },
     {
       "identifier": "Anime_Watashi_Ga_Motete_Dousunda_III",
+      "anime_identifier": "watashi_ga_motete",
       "name": "Anime Watashi Ga Motete Dousunda III\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -11979,6 +12045,7 @@
     },
     {
       "identifier": "Anime_Watashi_Ga_Motete_Dousunda_IV",
+      "anime_identifier": "watashi_ga_motete",
       "name": "Anime Watashi Ga Motete Dousunda IV\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -12096,6 +12163,7 @@
     },
     {
       "identifier": "Anime_Watashi_Ga_Motete_Dousunda_V",
+      "anime_identifier": "watashi_ga_motete",
       "name": "Anime Watashi Ga Motete Dousunda V\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
