@@ -343,7 +343,7 @@
       }
     },
     {
-      "id": "Takagi_san",
+      "id": "takagi_san",
       "names": [
         "Takagi-san",
         "Karakai Jouzu no Takagi-san",
@@ -592,7 +592,10 @@
     },
     {
       "id": "tonikaku_kawaii",
-      "names": ["Tonikaku Kawaii", "TONIKAWA: Over the Moon For You"],
+      "names": [
+        "Tonikaku Kawaii",
+        "TONIKAWA: Over the Moon For You"
+      ],
       "file_tray_image": "tonikakukawaii.webp",
       "description": {
         "en": "Tonikaku Kawaii follows the story of Nasa Yuzaki, a high school student who meets and falls in love with a mysterious girl. After a series of events, Nasa and the girl, Tsukasa Tsukuyomi, get married. The series explores their newlywed life and the challenges they face as a couple.",
@@ -600,14 +603,26 @@
         "es": "Tonikaku Kawaii sigue la historia de Nasa Yuzaki, un estudiante de secundaria que conoce y se enamora de una chica misteriosa. Después de una serie de eventos, Nasa y la chica, Tsukasa Tsukuyomi, se casan. La serie explora su vida de recién casados y los desafíos que enfrentan como pareja."
       },
       "genres": {
-        "en": ["Romance", "Comedy"],
-        "pt": ["Romance", "Comédia"],
-        "es": ["Romance", "Comedia"]
+        "en": [
+          "Romance",
+          "Comedy"
+        ],
+        "pt": [
+          "Romance",
+          "Comédia"
+        ],
+        "es": [
+          "Romance",
+          "Comedia"
+        ]
       }
     },
     {
       "id": "ahegao",
-      "names": ["Ahegao", "Ahegao Face"],
+      "names": [
+        "Ahegao",
+        "Ahegao Face"
+      ],
       "file_tray_image": "ahegao.webp",
       "description": {
         "en": "Ahegao is a style of artistic expression often found in anime and manga. It features characters with exaggerated facial expressions, typically conveying a range of intense emotions, including pleasure, ecstasy, or delirium. These expressions are known for their surreal and sometimes humorous nature, contributing to the unique visual language of certain genres.",
@@ -615,9 +630,15 @@
         "es": "Ahegao es un estilo de expresión artística que se encuentra a menudo en anime y manga. Presenta personajes con expresiones faciales exageradas, que transmiten típicamente una variedad de emociones intensas, incluyendo placer, éxtasis o delirio. Estas expresiones son conocidas por su naturaleza surrealista y, a veces, humorística, contribuyendo al lenguaje visual único de ciertos géneros."
       },
       "genres": {
-        "en": ["Artistic Expression"],
-        "pt": ["Expressão Artística"],
-        "es": ["Expresión Artística"]
+        "en": [
+          "Artistic Expression"
+        ],
+        "pt": [
+          "Expressão Artística"
+        ],
+        "es": [
+          "Expresión Artística"
+        ]
       }
     },
     {
@@ -647,6 +668,190 @@
           "Festivo",
           "Navidad",
           "Anime"
+        ]
+      }
+    },
+    {
+      "id": "boku_no_hero",
+      "names": [
+        "Boku no Hero Academia",
+        "My Hero Academia"
+      ],
+      "file_tray_image": "bokunohero.webp",
+      "description": {
+        "en": "Boku no Hero Academia (My Hero Academia) is an anime set in a world where nearly everyone possesses superpowers known as 'Quirks.' The story follows Izuku Midoriya, a Quirkless boy born without superpowers, who aspires to become a hero. After a chance encounter with the legendary hero All Might, Izuku inherits a powerful Quirk and gains admission to U.A. High School, a prestigious academy for aspiring heroes. The series explores Izuku's journey to become the greatest hero and the challenges faced by him and his classmates.",
+        "pt": "Boku no Hero Academia (My Hero Academia) é um anime ambientado em um mundo onde quase todos possuem superpoderes conhecidos como 'Quirks'. A história segue Izuku Midoriya, um garoto sem Quirk nascido sem superpoderes, que aspira se tornar um herói. Após um encontro casual com o lendário herói All Might, Izuku herda um Quirk poderoso e é admitido na U.A. High School, uma prestigiosa academia para aspirantes a heróis. A série explora a jornada de Izuku para se tornar o maior herói e os desafios enfrentados por ele e seus colegas de classe.",
+        "es": "Boku no Hero Academia (My Hero Academia) es un anime ambientado en un mundo donde casi todos poseen superpoderes conocidos como 'Quirks'. La historia sigue a Izuku Midoriya, un chico sin Quirk nacido sin superpoderes, que aspira a convertirse en un héroe. Después de un encuentro casual con el legendario héroe All Might, Izuku hereda un Quirk poderoso y es admitido en la U.A. High School, una prestigiosa academia para aspirantes a héroes. La serie explora la jornada de Izuku para convertirse en el mejor héroe y los desafíos enfrentados por él y sus compañeros de clase."
+      },
+      "genres": {
+        "en": [
+          "Action",
+          "Adventure",
+          "Comedy",
+          "School",
+          "Superpower"
+        ],
+        "pt": [
+          "Ação",
+          "Aventura",
+          "Comédia",
+          "Escolar",
+          "Superpoder"
+        ],
+        "es": [
+          "Acción",
+          "Aventura",
+          "Comedia",
+          "Escuela",
+          "Superpoder"
+        ]
+      }
+    },
+    {
+      "id": "darling_in_the_franxx",
+      "names": [
+        "Darling in the Franxx"
+      ],
+      "file_tray_image": "darlinginthefranxx.webp",
+      "description": {
+        "en": "Darling in the Franxx is a mecha anime set in a dystopian future where humanity is on the brink of extinction due to mysterious creatures known as Klaxosaurs. The story follows a group of children, known as Parasites, who pilot giant mechs called Franxx to protect their remaining civilization, the Plantations. The protagonist, Hiro, forms a unique partnership with the mysterious Zero Two, and together they embark on a journey that challenges the boundaries of their world and the nature of their existence.",
+        "pt": "Darling in the Franxx é um anime de mecha ambientado em um futuro distópico onde a humanidade está à beira da extinção devido a criaturas misteriosas conhecidas como Klaxosaurs. A história segue um grupo de crianças, conhecidas como Parasitas, que pilotam mechas gigantes chamados Franxx para proteger sua civilização remanescente, as Plantations. O protagonista, Hiro, forma uma parceria única com a misteriosa Zero Two, e juntos embarcam em uma jornada que desafia os limites de seu mundo e a natureza de sua existência.",
+        "es": "Darling in the Franxx es un anime de mechas ambientado en un futuro distópico donde la humanidad está al borde de la extinción debido a criaturas misteriosas conocidas como Klaxosaurs. La historia sigue a un grupo de niños, conocidos como Parásitos, que pilotan mechas gigantes llamados Franxx para proteger su civilización restante, las Plantaciones. El protagonista, Hiro, forma una asociación única con la misteriosa Zero Two, y juntos emprenden un viaje que desafía los límites de su mundo y la naturaleza de su existencia."
+      },
+      "genres": {
+        "en": [
+          "Mecha",
+          "Sci-Fi",
+          "Drama",
+          "Romance"
+        ],
+        "pt": [
+          "Mecha",
+          "Ficção Científica",
+          "Drama",
+          "Romance"
+        ],
+        "es": [
+          "Mecha",
+          "Ciencia Ficción",
+          "Drama",
+          "Romance"
+        ]
+      }
+    },
+    {
+      "id": "death_note",
+      "names": [
+        "Death Note"
+      ],
+      "file_tray_image": "deathnote.webp",
+      "description": {
+        "en": "Death Note is a psychological thriller anime centered around a high school student, Light Yagami, who discovers a mysterious notebook called the Death Note. The notebook has the power to kill anyone whose name is written in it, as long as the writer has the person's face in mind. Driven by a desire to rid the world of criminals and become a god-like figure, Light begins his quest for justice. However, his actions attract the attention of a brilliant detective known only as L, leading to a high-stakes game of cat and mouse.",
+        "pt": "Death Note é um anime de thriller psicológico centrado em um estudante do ensino médio, Light Yagami, que descobre um caderno misterioso chamado Death Note. O caderno tem o poder de matar qualquer pessoa cujo nome seja escrito nele, desde que o escritor tenha o rosto da pessoa em mente. Impulsionado pelo desejo de livrar o mundo de criminosos e se tornar uma figura divina, Light inicia sua busca por justiça. No entanto, suas ações chamam a atenção de um brilhante detetive conhecido apenas como L, levando a um jogo de gato e rato de alto risco.",
+        "es": "Death Note es un thriller psicológico centrado en un estudiante de secundaria, Light Yagami, que descubre un misterioso cuaderno llamado Death Note. El cuaderno tiene el poder de matar a cualquiera cuyo nombre se escriba en él, siempre y cuando el escritor tenga la cara de la persona en mente. Impulsado por el deseo de librar al mundo de criminales y convertirse en una figura divina, Light inicia su búsqueda de justicia. Sin embargo, sus acciones llaman la atención de un brillante detective conocido solo como L, lo que lleva a un juego de gato y ratón de alto riesgo."
+      },
+      "genres": {
+        "en": [
+          "Psychological",
+          "Thriller",
+          "Mystery",
+          "Supernatural"
+        ],
+        "pt": [
+          "Psicológico",
+          "Thriller",
+          "Mistério",
+          "Sobrenatural"
+        ],
+        "es": [
+          "Psicológico",
+          "Thriller",
+          "Misterio",
+          "Sobrenatural"
+        ]
+      }
+    },
+    {
+      "id": "elfen_lied",
+      "names": [
+        "Elfen Lied"
+      ],
+      "file_tray_image": "elfenlied.webp",
+      "description": {
+        "en": "Elfen Lied is a dark fantasy anime that revolves around Lucy, a genetically modified human with telekinetic powers and deadly vectors. After escaping from a high-security laboratory, Lucy experiences amnesia and is discovered by two cousins, Kouta and Yuka. As Lucy tries to integrate into human society, her violent past catches up with her, leading to a series of tragic events. The series explores themes of prejudice, humanity, and the consequences of unchecked scientific experimentation.",
+        "pt": "Elfen Lied é um anime de fantasia sombria que gira em torno de Lucy, uma humana geneticamente modificada com poderes telecinéticos e vetores mortais. Após escapar de um laboratório de alta segurança, Lucy sofre de amnésia e é descoberta por dois primos, Kouta e Yuka. Enquanto Lucy tenta se integrar à sociedade humana, seu passado violento a alcança, levando a uma série de eventos trágicos. A série explora temas de preconceito, humanidade e as consequências da experimentação científica descontrolada.",
+        "es": "Elfen Lied es un anime de fantasía oscura que gira en torno a Lucy, una humana genéticamente modificada con poderes telequinéticos y vectores mortales. Después de escapar de un laboratorio de alta seguridad, Lucy sufre amnesia y es descubierta por dos primos, Kouta y Yuka. Mientras Lucy intenta integrarse a la sociedad humana, su pasado violento la alcanza, llevando a una serie de eventos trágicos. La serie explora temas de prejuicio, humanidad y las consecuencias de la experimentación científica descontrolada."
+      },
+      "genres": {
+        "en": [
+          "Dark Fantasy",
+          "Drama",
+          "Horror",
+          "Psychological"
+        ],
+        "pt": [
+          "Fantasia Sombria",
+          "Drama",
+          "Terror",
+          "Psicológico"
+        ],
+        "es": [
+          "Fantasía Oscura",
+          "Drama",
+          "Terror",
+          "Psicológico"
+        ]
+      }
+    },
+    {
+      "id": "fate_prisma_illya",
+      "names": [
+        "Fate/kaleid liner Prisma☆Illya"
+      ],
+      "file_tray_image": "fateprismaillya.webp",
+      "description": {
+        "en": "Fate/kaleid liner Prisma☆Illya is a magical girl spin-off of the Fate/stay night series. The story follows Illyasviel von Einzbern, who becomes a magical girl tasked with collecting Class Cards, powerful artifacts that hold the essence of heroic spirits. Alongside her friends, including Miyu Edelfelt, Illya faces various magical challenges and adversaries. The series combines elements of the Fate universe with the magical girl genre, offering a unique take on the familiar characters and lore.",
+        "pt": "Fate/kaleid liner Prisma☆Illya é um spin-off de garota mágica da série Fate/stay night. A história segue Illyasviel von Einzbern, que se torna uma garota mágica encarregada de coletar Class Cards, artefatos poderosos que contêm a essência de espíritos heroicos. Ao lado de seus amigos, incluindo Miyu Edelfelt, Illya enfrenta vários desafios mágicos e adversários. A série combina elementos do universo Fate com o gênero de garota mágica, oferecendo uma abordagem única para os personagens e a mitologia conhecidos.",
+        "es": "Fate/kaleid liner Prisma☆Illya es un spin-off de chica mágica de la serie Fate/stay night. La historia sigue a Illyasviel von Einzbern, quien se convierte en una chica mágica encargada de recolectar Class Cards, artefactos poderosos que contienen la esencia de espíritus heroicos. Junto a sus amigos, incluyendo a Miyu Edelfelt, Illya enfrenta varios desafíos mágicos y adversarios. La serie combina elementos del universo Fate con el género de chica mágica, ofreciendo una perspectiva única de los personajes y la mitología conocidos."
+      },
+      "genres": {
+        "en": [
+          "Magical Girl",
+          "Action",
+          "Fantasy"
+        ],
+        "pt": [
+          "Garota Mágica",
+          "Ação",
+          "Fantasia"
+        ],
+        "es": [
+          "Chica Mágica",
+          "Acción",
+          "Fantasía"
+        ]
+      }
+    },
+    {
+      "id": "lolis",
+      "names": [
+        "Lolis"
+      ],
+      "file_tray_image": "lolis.webp",
+      "description": {
+        "en": "Lolis refer to a character archetype in anime and manga characterized by a youthful appearance, typically with childlike features. These characters are often portrayed as cute, innocent, and sometimes possessing magical or supernatural abilities. It's important to note that the depiction of lolis raises ethical considerations due to their childlike appearance, and creators often emphasize that these characters are fictional and not meant to represent real children.",
+        "pt": "Lolis referem-se a um arquétipo de personagem em anime e mangá caracterizado por uma aparência jovial, geralmente com características infantis. Esses personagens são frequentemente retratados como fofos, inocentes e, às vezes, possuindo habilidades mágicas ou sobrenaturais. É importante observar que a representação de lolis levanta considerações éticas devido à sua aparência infantil, e os criadores frequentemente enfatizam que esses personagens são fictícios e não pretendem representar crianças reais.",
+        "es": "Lolis se refiere a un arquetipo de personaje en anime y manga caracterizado por una apariencia juvenil, típicamente con rasgos infantiles. Estos personajes suelen ser retratados como lindos, inocentes y a veces poseen habilidades mágicas o sobrenaturales. Es importante destacar que la representación de lolis plantea consideraciones éticas debido a su apariencia infantil, y los creadores a menudo enfatizan que estos personajes son ficticios y no pretenden representar a niños reales."
+      },
+      "genres": {
+        "en": [
+          "Character Archetype"
+        ],
+        "pt": [
+          "Arquétipo de Personagem"
+        ],
+        "es": [
+          "Arquetipo de Personaje"
         ]
       }
     }
