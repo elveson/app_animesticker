@@ -1,0 +1,654 @@
+{
+  "anime_profiles": [
+    {
+      "id": "love_live",
+      "names": [
+        "Love Live!"
+      ],
+      "file_tray_image": "love_live.webp",
+      "description": {
+        "en": "Honoka Kōsaka is a girl who loves her school, Otonokizaka High School, but it is about to be closed due to a lack of new students, Honoka becomes determined to save it. Knowing that school idols are popular, they and their friends create the group μ's (pronounced miúse) with the aim of getting new students. After saving the school from closure, the μ's girls take higher paths and participate in \"Love Live\", the ultimate competition that brings together Japan's biggest idol groups.",
+        "pt": "Honoka Kōsaka é uma garota que ama sua escola, Colégio de Ensino Médio Otonokizaka, porém essa está prestes a ser fechada devido a uma falta de novos estudantes, Honoka se torna determinada a salvá-la. Sabendo que ídolos de colégio são populares, elas e suas amigas criam o grupo μ's (se pronuncia miúse) com o objetivo de conseguir novas estudantes. Após salvarem o colégio do fechamento, as garotas da μ's seguem caminhos mais altos e participam do \"Love Live\", a competição suprema que reúne os maiores grupos idol do Japão.",
+        "es": "Honoka Kōsaka es una chica que ama su escuela, Otonokizaka High School, pero está a punto de cerrar debido a la falta de nuevos estudiantes, Honoka está decidida a salvarla. Sabiendo que los ídolos escolares son populares, ellos y sus amigos crean el grupo μ's (pronunciado miúse) con el objetivo de conseguir nuevos estudiantes. Después de salvar la escuela del cierre, las chicas de μ toman caminos más elevados y participan en \"Love Live\", la competición definitiva que reúne a los grupos ídolos más importantes de Japón."
+      },
+      "genres": {
+        "en": [
+          "Slice of Life",
+          "Music",
+          "School"
+        ],
+        "pt": [
+          "Fatia de Vida",
+          "Música",
+          "Escola"
+        ],
+        "es": [
+          "Recuentos de la vida",
+          "Música",
+          "Escuela"
+        ]
+      }
+    },
+    {
+      "id": "mirai_nikki",
+      "names": [
+        "Mirai Nikki",
+        "The Future Diary"
+      ],
+      "file_tray_image": "mirai_nikki.webp",
+      "description": {
+        "en": "Yukiteru Amano is a boy who has trouble making friends. One day, he gains from a God the power to predict the future with his cell phone, his “diary of the future”. However, Yukiteru will have to use his power to survive in a game involving dangerous killers and psychopaths, each with a special power at hand. They are all competing to be God's successor. He will have the help of Yuno Gasai, a girl crazy about Yukiteru who hides a secret.",
+        "pt": "Yukiteru Amano é um garoto que com dificuldades de fazer amigos. Um dia, ganha de um Deus o poder de prever o futuro com seu celular, o seu “diário do futuro”. Porém, Yukiteru terá que usar seu poder para sobreviver em um jogo envolvendo perigosos assassinos e psicopatas, cada um com um poder especial em mãos. Todos eles estão concorrendo para ser o sucessor de Deus. Ele contará com a ajuda de Yuno Gasai, uma menina louca por Yukiteru que esconde um segredo.",
+        "es": "Yukiteru Amano es un chico que tiene problemas para hacer amigos. Un día, recibe de Dios el poder de predecir el futuro con su teléfono móvil, su “diario del futuro”. Sin embargo, Yukiteru tendrá que usar su poder para sobrevivir en un juego en el que participan peligrosos asesinos y psicópatas, cada uno con un poder especial en mano. Todos compiten por ser el sucesor de Dios. Contará con la ayuda de Yuno Gasai, una chica loca por Yukiteru que esconde un secreto."
+      },
+      "genres": {
+        "en": [
+          "Action",
+          "Horror",
+          "Supernatural",
+          "Thriller",
+          "Thriller"
+        ],
+        "pt": [
+          "Ação",
+          "Terror",
+          "Sobrenatural",
+          "Suspense",
+          "Suspense"
+        ],
+        "es": [
+          "Acción",
+          "Horror",
+          "Sobrenatural",
+          "Suspenso",
+          "Suspenso"
+        ]
+      }
+    },
+    {
+      "id": "one_piece",
+      "names": [
+        "One Piece",
+        "OP"
+      ],
+      "file_tray_image": "one_piece.webp",
+      "description": {
+        "en": "The plot follows Monkey D. Luffy, a young man who has the ambition to become the Pirate King - the one who achieves all things in the world. To do this, he needs to find the One Piece, the legendary treasure left by Gol D. Roger, the first king of piracy. During his journey, in addition to many friends, Luffy gains loyal companions who help him follow his dream.",
+        "pt": "A trama segue Monkey D. Luffy, um jovem que tem a ambição de se tornar o Rei dos Piratas - aquele que consegue todas as coisas do mundo. Para isso, ele precisa encontrar o One Piece, o tesouro lendário deixado por Gol D. Roger, primeiro rei da pirataria. Durante sua jornada, além de muitos amigos, Luffy consegue leais companheiros, que o ajudam a trilhar seu sonho.",
+        "es": "La trama sigue a Monkey D. Luffy, un joven que tiene la ambición de convertirse en el Rey Pirata, el que logra todas las cosas en el mundo. Para ello, necesita encontrar One Piece, el tesoro legendario dejado por Gol D. Roger, el primer rey de la piratería. Durante su viaje, además de muchos amigos, Luffy consigue compañeros leales que le ayudan a seguir su sueño."
+      },
+      "genres": {
+        "en": [
+          "Action",
+          "Adventure",
+          "Fantasy",
+          "Demographic",
+          "Shounen"
+        ],
+        "pt": [
+          "Ação",
+          "Aventura",
+          "Fantasia",
+          "Demográfico",
+          "Shounen"
+        ],
+        "es": [
+          "Acción",
+          "Aventura",
+          "Fantasía",
+          "Demográfico",
+          "Shounen"
+        ]
+      }
+    },
+    {
+      "id": "overlord",
+      "names": [
+        "Overlord"
+      ],
+      "file_tray_image": "overlord.webp",
+      "description": {
+        "en": "Yggdrasil is a popular online game that suddenly has its servers shut down. Momonga, a young player, decides not to leave the game and is transformed into a skeleton, the Overlord. As he has no family, friends or place in real society, young Momonga decides to fight to dominate the new world that the game has become.",
+        "pt": "Yggdrasil é um popular jogo online que, de repente, tem seus servidores desligados. Momonga, um jovem jogador, decide não sair do jogo e é transformado num esqueleto, o Overlord. Como não tem família, amigos ou lugar na sociedade real, o jovem Momonga decide lutar para dominar o novo mundo que o jogo se tornou.",
+        "es": "Yggdrasil es un popular juego en línea cuyos servidores cierran repentinamente. Momonga, un joven jugador, decide no abandonar el juego y se transforma en un esqueleto, el Overlord. Al no tener familia, amigos ni lugar en la sociedad real, el joven Momonga decide luchar para dominar el nuevo mundo en el que se ha convertido el juego."
+      },
+      "genres": {
+        "en": [
+          "Action",
+          "Comedy",
+          "Fantasy",
+          "Isekai"
+        ],
+        "pt": [
+          "Ação",
+          "Comédia",
+          "Fantasia",
+          "Isekai"
+        ],
+        "es": [
+          "Acción",
+          "Comedia",
+          "Fantasía",
+          "Isekai"
+        ]
+      }
+    },
+    {
+      "id": "re_zero",
+      "names": [
+        "Re:Zero",
+        "ReZero",
+        "Starting Life in Another World",
+        "Life in a different world from zero"
+      ],
+      "file_tray_image": "rezero.webp",
+      "description": {
+        "en": "When Subaru Natsuki leaves the convenience store, the last thing he expects is to be wrenched from his everyday life and dropped into a fantasy world. Things are not looking good for the bewildered teenager; however, not long after his arrival, he is attacked by some thugs. Armed with only a bag of groceries and a now useless cell phone, he is quickly beaten to a pulp. Fortunately, a mysterious beauty named Satella, in hot pursuit after the one who stole her insignia, happens upon Subaru and saves him. In order to thank the honest and kindhearted girl, Subaru offers to help in her search, and later that night, he even finds the whereabouts of that which she seeks. But unbeknownst to them, a much darker force stalks the pair from the shadows, and just minutes after locating the insignia, Subaru and Satella are brutally murdered.\nHowever, Subaru immediately reawakens to a familiar scene—confronted by the same group of thugs, meeting Satella all over again—the enigma deepens as history inexplicably repeats itself.",
+        "pt": "Quando Subaru Natsuki sai da loja de conveniência, a última coisa que ele espera é ser arrancado de sua vida cotidiana e jogado em um mundo de fantasia. As coisas não parecem boas para o adolescente perplexo; porém, pouco depois de sua chegada, ele é atacado por alguns bandidos. Armado apenas com uma sacola de compras e um celular agora inútil, ele é rapidamente espancado até virar polpa. Felizmente, uma beleza misteriosa chamada Satella, em perseguição de quem roubou sua insígnia, encontra Subaru e o salva. Para agradecer à garota honesta e bondosa, Subaru se oferece para ajudar em sua busca e, mais tarde naquela noite, ele ainda descobre o paradeiro daquilo que ela procura. Mas sem o conhecimento deles, uma força muito mais sombria persegue a dupla nas sombras e, poucos minutos depois de localizar a insígnia, Subaru e Satella são brutalmente assassinados.\nNo entanto, Subaru imediatamente desperta para uma cena familiar – confrontado pelo mesmo grupo de bandidos, encontrando Satella novamente – o enigma se aprofunda à medida que a história se repete inexplicavelmente.",
+        "es": "Cuando Subaru Natsuki sale de la tienda, lo último que espera es que lo saquen de su vida cotidiana y lo sumerjan en un mundo de fantasía. Las cosas no pintan bien para el desconcertado adolescente; sin embargo, poco después de su llegada, es atacado por unos matones. Armado sólo con una bolsa de comestibles y un teléfono celular ahora inútil, rápidamente lo convierten en pulpa. Afortunadamente, una misteriosa belleza llamada Satella, persiguiendo a quien robó su insignia, se encuentra con Subaru y lo salva. Para agradecer a la chica honesta y de buen corazón, Subaru se ofrece a ayudar en su búsqueda, y más tarde esa noche, incluso encuentra el paradero de lo que ella busca. Pero sin que ellos lo sepan, una fuerza mucho más oscura los acecha desde las sombras, y apenas unos minutos después de localizar la insignia, Subaru y Satella son brutalmente asesinados.\nSin embargo, Subaru inmediatamente vuelve a despertar en una escena familiar: se enfrenta al mismo grupo de matones y se encuentra con Satella de nuevo; el enigma se profundiza a medida que la historia se repite inexplicablemente."
+      },
+      "genres": {
+        "en": [
+          "Drama",
+          "Fantasy",
+          "Suspense",
+          "Isekai"
+        ],
+        "pt": [
+          "Drama",
+          "Fantasia",
+          "Suspenso",
+          "Isekai"
+        ],
+        "es": [
+          "Drama",
+          "Fantasía",
+          "Suspenso",
+          "Isekai"
+        ]
+      }
+    },
+    {
+      "id": "sword_art_online",
+      "names": [
+        "Sword Art Online",
+        "SAO"
+      ],
+      "file_tray_image": "swordart.webp",
+      "description": {
+        "en": "In the year 2022, thousands of people are trapped in a new virtual MMORPG called Sword Art Online. With the NerveGear, a helmet that stimulates the user's five senses via their brain, players can experience and control their in-game characters with their minds. However, if a player dies in the game, they die in real life. Asuna Yuuki is one of the thousands of players trapped in SAO. She is determined to find a way to escape, but she soon realizes that the game is not what it seems.",
+        "pt": "No ano de 2022, milhares de pessoas são presas em um novo MMORPG virtual chamado Sword Art Online. Com o NerveGear, um capacete que estimula os cinco sentidos do usuário através de seu cérebro, os jogadores podem experimentar e controlar seus personagens no jogo com suas mentes. No entanto, se um jogador morrer no jogo, ele morre na vida real. Asuna Yuuki é uma das milhares de jogadoras presas no SAO. Ela está determinada a encontrar uma maneira de escapar, mas logo percebe que o jogo não é o que parece.",
+        "es": "En el año 2022, miles de personas quedan atrapadas en un nuevo MMORPG virtual llamado Sword Art Online. Con el NerveGear, un casco que estimula los cinco sentidos del usuario a través de su cerebro, los jugadores pueden experimentar y controlar sus personajes en el juego con sus mentes. Sin embargo, si un jugador muere en el juego, muere en la vida real. Asuna Yuuki es una de las miles de jugadoras atrapadas en el SAO. Está decidida a encontrar una manera de escapar, pero pronto se da cuenta de que el juego no es lo que parece."
+      },
+      "genres": {
+        "en": [
+          "Action",
+          "Adventure",
+          "Drama",
+          "Fantasy",
+          "Romance",
+          "Sci-Fi",
+          "Isekai"
+        ],
+        "pt": [
+          "Ação",
+          "Aventura",
+          "Drama",
+          "Fantasia",
+          "Romance",
+          "Ficção científica",
+          "Isekai"
+        ],
+        "es": [
+          "Acción",
+          "Aventura",
+          "Drama",
+          "Fantasía",
+          "Romance",
+          "Ciencia ficción",
+          "Isekai"
+        ]
+      }
+    },
+    {
+      "id": "volcaloid",
+      "names": [
+        "Vocaloid",
+        "Vocaloide"
+      ],
+      "file_tray_image": "vocaloid.webp",
+      "description": {
+        "en": "Vocaloid is a singing synthesizer technology developed by the Yamaha Corporation that allows users to synthesize singing by typing in lyrics and melody. This unique and innovative software has given rise to virtual singers who have become popular not only in Japan but around the world. Each Vocaloid is characterized by a distinctive voice and appearance, and users can create their own music by utilizing these virtual performers.",
+        "pt": "Vocaloid é uma tecnologia de síntese de canto desenvolvida pela Yamaha Corporation que permite aos usuários sintetizar o canto digitando letras e melodia. Esse software único e inovador deu origem a cantores virtuais que se tornaram populares não apenas no Japão, mas em todo o mundo. Cada Vocaloid é caracterizado por uma voz e aparência distintas, e os usuários podem criar sua própria música utilizando esses artistas virtuais.",
+        "es": "Vocaloid es una tecnología de síntesis de canto desarrollada por Yamaha Corporation que permite a los usuarios sintetizar el canto escribiendo letras y melodía. Este software único e innovador ha dado lugar a cantantes virtuales que se han vuelto populares no solo en Japón sino en todo el mundo. Cada Vocaloid se caracteriza por una voz y apariencia distintivas, y los usuarios pueden crear su propia música utilizando estos artistas virtuales."
+      },
+      "genres": {
+        "en": [
+          "Music",
+          "Technology"
+        ],
+        "pt": [
+          "Música",
+          "Tecnologia"
+        ],
+        "es": [
+          "Música",
+          "Tecnología"
+        ]
+      }
+    },
+    {
+      "id": "jojo",
+      "names": [
+        "JoJo's Bizarre Adventure",
+        "Jojo",
+        "Jojo`s",
+        "JoJo no Kimyou na Bouken"
+      ],
+      "file_tray_image": "jojo.webp",
+      "description": {
+        "en": "JoJo's Bizarre Adventure follows the adventures of the Joestar family, whose members possess unique powers that they use to battle supernatural enemies. The series spans multiple generations, with each part focusing on a different member of the Joestar lineage and their battles against various villains. Known for its imaginative storytelling, distinct art style, and iconic poses, JoJo's Bizarre Adventure has become a cultural phenomenon in the world of anime and manga.",
+        "pt": "JoJo's Bizarre Adventure segue as aventuras da família Joestar, cujos membros possuem habilidades únicas que eles usam para lutar contra inimigos sobrenaturais. A série abrange várias gerações, com cada parte focando em um membro diferente da linhagem Joestar e suas batalhas contra vários vilões. Conhecido por sua narrativa imaginativa, estilo de arte distinto e poses icônicas, JoJo's Bizarre Adventure se tornou um fenômeno cultural no mundo do anime e mangá.",
+        "es": "JoJo's Bizarre Adventure sigue las aventuras de la familia Joestar, cuyos miembros poseen habilidades únicas que utilizan para luchar contra enemigos sobrenaturales. La serie abarca varias generaciones, con cada parte centrada en un miembro diferente de la línea Joestar y sus batallas contra varios villanos. Conocido por su narrativa imaginativa, estilo de arte distintivo y poses icónicas, JoJo's Bizarre Adventure se ha convertido en un fenómeno cultural en el mundo del anime y el manga."
+      },
+      "genres": {
+        "en": [
+          "Action",
+          "Adventure",
+          "Supernatural"
+        ],
+        "pt": [
+          "Ação",
+          "Aventura",
+          "Sobrenatural"
+        ],
+        "es": [
+          "Acción",
+          "Aventura",
+          "Sobrenatural"
+        ]
+      }
+    },
+    {
+      "id": "kaguya_sama",
+      "names": [
+        "Kaguya-sama",
+        "kaguya",
+        "Kaguya-sama wa Kokurasetai",
+        "Love is war",
+        "Waar Liefde een Oorlog Is"
+      ],
+      "file_tray_image": "kaguya_sama.webp",
+      "description": {
+        "en": "Kaguya-sama: Love is War revolves around the comedic and romantic antics between the two high-achieving students, Kaguya Shinomiya and Miyuki Shirogane. As the vice president and president of the student council, they both harbor romantic feelings for each other but are too proud to confess. The series explores their clever and elaborate schemes to make the other person confess their love first, turning ordinary situations into battlegrounds of wit and strategy.",
+        "pt": "Kaguya-sama: Love is War gira em torno das proezas cômicas e românticas entre os dois estudantes de alto desempenho, Kaguya Shinomiya e Miyuki Shirogane. Como vice-presidente e presidente do conselho estudantil, ambos têm sentimentos românticos um pelo outro, mas são orgulhosos demais para confessar. A série explora seus esquemas inteligentes e elaborados para fazer a outra pessoa confessar seu amor primeiro, transformando situações comuns em campos de batalha de sagacidade e estratégia.",
+        "es": "Kaguya-sama: Love is War gira en torno a las travesuras cómicas y románticas entre los dos estudiantes de alto rendimiento, Kaguya Shinomiya y Miyuki Shirogane. Como vicepresidenta y presidente del consejo estudiantil, ambos albergan sentimientos románticos el uno por el otro, pero son demasiado orgullosos para confesar. La serie explora sus ingeniosos y elaborados planes para hacer que la otra persona confiese su amor primero, convirtiendo situaciones ordinarias en campos de batalla de ingenio y estrategia."
+      },
+      "genres": {
+        "en": [
+          "Comedy",
+          "Romance",
+          "School",
+          "Psychological"
+        ],
+        "pt": [
+          "Comédia",
+          "Romance",
+          "Escolar",
+          "Psicológico"
+        ],
+        "es": [
+          "Comedia",
+          "Romance",
+          "Escuela",
+          "Psicológico"
+        ]
+      }
+    },
+    {
+      "id": "kaifuku_jutsushi",
+      "names": [
+        "Kaifuku Jutsushi no Yarinaos",
+        "Redo of Healer",
+        "Kaifuku"
+      ],
+      "file_tray_image": "kaifuku_jutsushi.webp",
+      "description": {
+        "en": "Kaifuku Jutsushi no Yarinaos, also known as Redo of Healer, follows the story of Keyaru, a healing hero who is mistreated and exploited by his fellow heroes. After experiencing immense suffering, he discovers a mysterious ability to rewind time. With this power, he decides to redo his life, seeking revenge against those who wronged him. The series explores dark and mature themes, showcasing Keyaru's journey of vengeance and the consequences of manipulating time.",
+        "pt": "Kaifuku Jutsushi no Yarinaos, também conhecido como Redo of Healer, segue a história de Keyaru, um herói curandeiro que é maltratado e explorado por seus colegas heróis. Após sofrer imensamente, ele descobre uma habilidade misteriosa de rebobinar o tempo. Com esse poder, ele decide refazer sua vida, buscando vingança contra aqueles que o prejudicaram. A série explora temas sombrios e maduros, mostrando a jornada de vingança de Keyaru e as consequências de manipular o tempo.",
+        "es": "Kaifuku Jutsushi no Yarinaos, también conocido como Redo of Healer, sigue la historia de Keyaru, un héroe curandero maltratado y explotado por sus compañeros héroes. Después de experimentar un sufrimiento inmenso, descubre una habilidad misteriosa para rebobinar el tiempo. Con este poder, decide rehacer su vida, buscando venganza contra aquellos que lo han perjudicado. La serie explora temas oscuros y maduros, mostrando el viaje de venganza de Keyaru y las consecuencias de manipular el tiempo."
+      },
+      "genres": {
+        "en": [
+          "Action",
+          "Adventure",
+          "Drama",
+          "Fantasy",
+          "Hentai"
+        ],
+        "pt": [
+          "Ação",
+          "Aventura",
+          "Drama",
+          "Fantasia",
+          "Hentai"
+        ],
+        "es": [
+          "Acción",
+          "Aventura",
+          "Drama",
+          "Fantasía",
+          "Hentai"
+        ]
+      }
+    },
+    {
+      "id": "Takagi_san",
+      "names": [
+        "Takagi-san",
+        "Karakai Jouzu no Takagi-san",
+        "Skilled Teaser Takagi-san",
+        "A Habilidade Mestre de Takagi-san"
+      ],
+      "file_tray_image": "takagi_san.webp",
+      "description": {
+        "en": "Karakai Jouzu no Takagi-san, also known as Skilled Teaser Takagi-san, revolves around the daily life and interactions between Nishikata, a middle school student, and his classmate Takagi. Takagi is known for her teasing antics, constantly playing pranks on Nishikata. The series explores the humorous and heartwarming moments as Nishikata attempts to turn the tables and outwit Takagi, only to find himself falling for her charms.",
+        "pt": "Karakai Jouzu no Takagi-san, também conhecido como Skilled Teaser Takagi-san, gira em torno da vida diária e interações entre Nishikata, um estudante do ensino médio, e sua colega Takagi. Takagi é conhecida por suas travessuras de provocação, constantemente pregando peças em Nishikata. A série explora momentos engraçados e emocionantes, à medida que Nishikata tenta virar o jogo e superar Takagi, apenas para se ver apaixonado por seus encantos.",
+        "es": "Karakai Jouzu no Takagi-san, también conocido como Skilled Teaser Takagi-san, gira en torno a la vida diaria e interacciones entre Nishikata, un estudiante de secundaria, y su compañera Takagi. Takagi es conocida por sus travesuras de provocación, jugando constantemente bromas a Nishikata. La serie explora momentos humorísticos y conmovedores a medida que Nishikata intenta darle la vuelta a la situación y superar a Takagi, solo para encontrarse enamorado de sus encantos."
+      },
+      "genres": {
+        "en": [
+          "Slice of Life",
+          "Comedy",
+          "Romance",
+          "School",
+          "Shounen"
+        ],
+        "pt": [
+          "Slice of Life",
+          "Comédia",
+          "Romance",
+          "Escolar",
+          "Shounen"
+        ],
+        "es": [
+          "Slice of Life",
+          "Comedia",
+          "Romance",
+          "Escuela",
+          "Shounen"
+        ]
+      }
+    },
+    {
+      "id": "konosuba",
+      "names": [
+        "Konosuba",
+        "Kono Subarashii Sekai ni Shukufuku wo!",
+        "KonoSuba: God's Blessing on This Wonderful World!",
+        "Kazuma"
+      ],
+      "file_tray_image": "konosuba.webp",
+      "description": {
+        "en": "KonoSuba: God's Blessing on This Wonderful World! follows the story of Kazuma Satou, a hikikomori (shut-in) gamer who, after a tragic and comical accident, finds himself in a fantasy world. He is accompanied by the goddess Aqua, the archwizard Megumin, and the crusader Darkness as they embark on various misadventures. Together, they face eccentric foes, explore dungeons, and navigate the challenges of their not-so-heroic quest.",
+        "pt": "KonoSuba: God's Blessing on This Wonderful World! segue a história de Kazuma Satou, um gamer hikikomori (recluso) que, após um acidente trágico e cômico, se encontra em um mundo de fantasia. Ele é acompanhado pela deusa Aqua, a arquimaga Megumin e a cruzada Darkness enquanto embarcam em várias desventuras. Juntos, enfrentam inimigos excêntricos, exploram masmorras e enfrentam os desafios de sua busca nem tão heroica assim.",
+        "es": "KonoSuba: God's Blessing on This Wonderful World! sigue la historia de Kazuma Satou, un jugador hikikomori (recluso) que, después de un accidente trágico y cómico, se encuentra en un mundo de fantasía. Lo acompañan la diosa Aqua, la arquimaga Megumin y la cruzada Darkness mientras se embarcan en diversas desventuras. Juntos, enfrentan enemigos excéntricos, exploran mazmorras y navegan por los desafíos de su búsqueda no tan heroica."
+      },
+      "genres": {
+        "en": [
+          "Adventure",
+          "Comedy",
+          "Fantasy",
+          "Magic",
+          "Parody",
+          "Supernatural"
+        ],
+        "pt": [
+          "Aventura",
+          "Comédia",
+          "Fantasia",
+          "Magia",
+          "Paródia",
+          "Sobrenatural"
+        ],
+        "es": [
+          "Aventura",
+          "Comedia",
+          "Fantasía",
+          "Magia",
+          "Parodia",
+          "Sobrenatural"
+        ]
+      }
+    },
+    {
+      "id": "araburu",
+      "names": [
+        "Araburu",
+        "Araburu Kisetsu no Otome-domo yo.",
+        "O Maidens in Your Savage Season"
+      ],
+      "file_tray_image": "araburu.webp",
+      "description": {
+        "en": "O Maidens in Your Savage Season (Araburu Kisetsu no Otome-domo yo.) explores the complexities of adolescent romance and sexuality. The story follows the members of the Literature Club, who, while exploring classic literature, find themselves confronted with the uncharted territories of their own desires and relationships. Each character grapples with the awkward and often humorous journey of self-discovery, love, and the challenges of growing up.",
+        "pt": "O Maidens in Your Savage Season (Araburu Kisetsu no Otome-domo yo.) explora as complexidades do romance e da sexualidade na adolescência. A história segue os membros do Clube de Literatura, que, ao explorar a literatura clássica, se veem confrontados com os territórios inexplorados de seus próprios desejos e relacionamentos. Cada personagem lida com a jornada desajeitada e muitas vezes humorística de autodescoberta, amor e os desafios do amadurecimento.",
+        "es": "O Maidens in Your Savage Season (Araburu Kisetsu no Otome-domo yo.) explora las complejidades del romance y la sexualidad en la adolescencia. La historia sigue a los miembros del Club de Literatura, quienes, al explorar la literatura clásica, se enfrentan a los territorios inexplorados de sus propios deseos y relaciones. Cada personaje lidia con la jornada incómoda y a menudo humorística de autodescubrimiento, amor y los desafíos del crecimiento."
+      },
+      "genres": {
+        "en": [
+          "Drama",
+          "School",
+          "Shounen"
+        ],
+        "pt": [
+          "Drama",
+          "Escolar",
+          "Shounen"
+        ],
+        "es": [
+          "Drama",
+          "Escuela",
+          "Shounen"
+        ]
+      }
+    },
+    {
+      "id": "attack_on_titan",
+      "names": [
+        "Attack on Titan",
+        "Shingeki no Kyojin"
+      ],
+      "file_tray_image": "shingekikyojin.webp",
+      "description": {
+        "en": "Attack on Titan (Shingeki no Kyojin) is a dark fantasy anime set in a world where humanity resides within enormous walled cities to protect themselves from the Titans, gigantic humanoid creatures. The story follows Eren Yeager and his friends Mikasa Ackerman and Armin Arlert, who join the military to fight the Titans after their hometown is invaded. As the narrative unfolds, secrets about the Titans, the world, and the history of humanity are revealed, leading to intense battles and moral dilemmas.",
+        "pt": "Attack on Titan (Shingeki no Kyojin) é um anime de fantasia sombria ambientado em um mundo onde a humanidade reside dentro de enormes cidades muradas para se proteger dos Titãs, criaturas humanoides gigantescas. A história segue Eren Yeager e seus amigos Mikasa Ackerman e Armin Arlert, que se juntam ao exército para lutar contra os Titãs depois que sua cidade natal é invadida. Conforme a narrativa se desenrola, segredos sobre os Titãs, o mundo e a história da humanidade são revelados, levando a batalhas intensas e dilemas morais.",
+        "es": "Attack on Titan (Shingeki no Kyojin) es un anime de fantasía oscura ambientado en un mundo donde la humanidad reside dentro de enormes ciudades amuralladas para protegerse de los Titanes, criaturas humanoides gigantes. La historia sigue a Eren Yeager y sus amigos Mikasa Ackerman y Armin Arlert, quienes se unen al ejército para luchar contra los Titanes después de que su ciudad natal es invadida. A medida que se desarrolla la narrativa, se revelan secretos sobre los Titanes, el mundo y la historia de la humanidad, lo que conduce a intensas batallas y dilemas morales."
+      },
+      "genres": {
+        "en": [
+          "Action",
+          "Drama",
+          "Fantasy",
+          "Mystery",
+          "Shounen"
+        ],
+        "pt": [
+          "Ação",
+          "Drama",
+          "Fantasia",
+          "Mistério",
+          "Shounen"
+        ],
+        "es": [
+          "Acción",
+          "Drama",
+          "Fantasía",
+          "Misterio",
+          "Shounen"
+        ]
+      }
+    },
+    {
+      "id": "black_clover",
+      "names": [
+        "Black Clover"
+      ],
+      "file_tray_image": "blackclover.webp",
+      "description": {
+        "en": "Black Clover is a fantasy anime set in a world where magic is everything. Asta, a boy born without any magical power, dreams of becoming the Wizard King, the strongest mage in the Clover Kingdom. Despite his lack of magic, Asta receives a rare five-leaf clover grimoire that grants him anti-magic abilities. Alongside his rival and childhood friend Yuno, who is exceptionally talented in magic, Asta embarks on a journey to fulfill his dream and overcome various challenges in a magical world full of adventures.",
+        "pt": "Black Clover é um anime de fantasia ambientado em um mundo onde a magia é tudo. Asta, um garoto nascido sem nenhum poder mágico, sonha em se tornar o Rei Mago, o mago mais forte do Reino do Trevo. Apesar de sua falta de magia, Asta recebe um grimoire de trevo de cinco folhas raro que lhe concede habilidades anti-mágica. Ao lado de seu rival e amigo de infância Yuno, que é excepcionalmente talentoso em magia, Asta embarca em uma jornada para realizar seu sonho e superar vários desafios em um mundo mágico cheio de aventuras.",
+        "es": "Black Clover es un anime de fantasía ambientado en un mundo donde la magia lo es todo. Asta, un chico nacido sin ningún poder mágico, sueña con convertirse en el Rey Mago, el mago más fuerte del Reino del Trébol. A pesar de su falta de magia, Asta recibe un raro grimorio de trébol de cinco hojas que le otorga habilidades contra la magia. Junto a su rival y amigo de la infancia Yuno, que es excepcionalmente talentoso en magia, Asta emprende un viaje para cumplir su sueño y superar varios desafíos en un mundo mágico lleno de aventuras."
+      },
+      "genres": {
+        "en": [
+          "Action",
+          "Comedy",
+          "Fantasy",
+          "Magic",
+          "Shounen"
+        ],
+        "pt": [
+          "Ação",
+          "Comédia",
+          "Fantasia",
+          "Magia",
+          "Shounen"
+        ],
+        "es": [
+          "Acción",
+          "Comedia",
+          "Fantasía",
+          "Magia",
+          "Shounen"
+        ]
+      }
+    },
+    {
+      "id": "watashi_ga_motete",
+      "names": [
+        "Watashi Ga Motete Dousunda",
+        "Kiss Him, Not Me"
+      ],
+      "file_tray_image": "watashigamotete.webp",
+      "description": {
+        "en": "Watashi Ga Motete Dousunda (Kiss Him, Not Me) is a romantic comedy anime that follows the story of Kae Serinuma, an overweight fujoshi (female otaku) who loves reading boys' love manga. After her favorite anime character dies, Kae undergoes a dramatic weight loss due to grief, transforming into a beautiful girl. Suddenly, she becomes the center of attention for her classmates, who all compete for her affection. Despite her newfound popularity, Kae remains dedicated to her love for fictional characters and navigates the challenges of romance and friendship.",
+        "pt": "Watashi Ga Motete Dousunda (Kiss Him, Not Me) é um anime de comédia romântica que segue a história de Kae Serinuma, uma fujoshi com excesso de peso (otaku feminina) que adora ler mangás boys' love. Depois que seu personagem de anime favorito morre, Kae passa por uma dramática perda de peso devido ao luto, transformando-se em uma linda garota. De repente, ela se torna o centro das atenções de seus colegas de classe, que competem por seu afeto. Apesar de sua nova popularidade, Kae permanece dedicada ao seu amor por personagens fictícios e enfrenta os desafios do romance e da amizade.",
+        "es": "Watashi Ga Motete Dousunda (Kiss Him, Not Me) es un anime de comedia romántica que sigue la historia de Kae Serinuma, una fujoshi con sobrepeso (otaku femenina) que ama leer mangas boys' love. Después de que su personaje de anime favorito muere, Kae experimenta una dramática pérdida de peso debido al duelo, transformándose en una hermosa chica. De repente, se convierte en el centro de atención de sus compañeros de clase, que compiten por su afecto. A pesar de su nueva popularidad, Kae permanece dedicada a su amor por personajes ficticios y enfrenta los desafíos del romance y la amistad."
+      },
+      "genres": {
+        "en": [
+          "Comedy",
+          "Harem",
+          "Romance",
+          "School",
+          "Shoujo"
+        ],
+        "pt": [
+          "Comédia",
+          "Harém",
+          "Romance",
+          "Escolar",
+          "Shoujo"
+        ],
+        "es": [
+          "Comedia",
+          "Harén",
+          "Romance",
+          "Escuela",
+          "Shoujo"
+        ]
+      }
+    },
+    {
+      "id": "doki_doki_literature",
+      "names": [
+        "Doki Doki Literature Club",
+        "DDLC",
+        "Doki Doki"
+      ],
+      "file_tray_image": "dokidoki.webp",
+      "description": {
+        "en": "Doki Doki Literature Club is a visual novel and psychological horror game. The story follows a high school student who joins the school's literature club and interacts with its four female members. As the protagonist becomes more involved with the club, the game takes unexpected and unsettling turns, exploring themes of mental health and the nature of interactive storytelling.",
+        "pt": "Doki Doki Literature Club é uma visual novel e jogo de horror psicológico. A história segue um estudante do ensino médio que se junta ao clube de literatura da escola e interage com suas quatro membros femininas. Conforme o protagonista se envolve mais com o clube, o jogo toma rumos inesperados e inquietantes, explorando temas de saúde mental e a natureza da narrativa interativa.",
+        "es": "Doki Doki Literature Club es una novela visual y juego de horror psicológico. La historia sigue a un estudiante de secundaria que se une al club de literatura de la escuela e interactúa con sus cuatro miembros femeninos. A medida que el protagonista se involucra más con el club, el juego toma giros inesperados e inquietantes, explorando temas de salud mental y la naturaleza de la narrativa interactiva."
+      },
+      "genres": {
+        "en": [
+          "Visual Novel",
+          "Psychological",
+          "Horror"
+        ],
+        "pt": [
+          "Novela Visual",
+          "Horror",
+          "Psicológico"
+        ],
+        "es": [
+          "Novela Visual",
+          "Horror",
+          "Psicológico"
+        ]
+      }
+    },
+    {
+      "id": "tonikaku_kawaii",
+      "names": ["Tonikaku Kawaii", "TONIKAWA: Over the Moon For You"],
+      "file_tray_image": "tonikakukawaii.webp",
+      "description": {
+        "en": "Tonikaku Kawaii follows the story of Nasa Yuzaki, a high school student who meets and falls in love with a mysterious girl. After a series of events, Nasa and the girl, Tsukasa Tsukuyomi, get married. The series explores their newlywed life and the challenges they face as a couple.",
+        "pt": "Tonikaku Kawaii segue a história de Nasa Yuzaki, um estudante do ensino médio que conhece e se apaixona por uma garota misteriosa. Após uma série de eventos, Nasa e a garota, Tsukasa Tsukuyomi, se casam. A série explora a vida de recém-casados deles e os desafios que enfrentam como um casal.",
+        "es": "Tonikaku Kawaii sigue la historia de Nasa Yuzaki, un estudiante de secundaria que conoce y se enamora de una chica misteriosa. Después de una serie de eventos, Nasa y la chica, Tsukasa Tsukuyomi, se casan. La serie explora su vida de recién casados y los desafíos que enfrentan como pareja."
+      },
+      "genres": {
+        "en": ["Romance", "Comedy"],
+        "pt": ["Romance", "Comédia"],
+        "es": ["Romance", "Comedia"]
+      }
+    },
+    {
+      "id": "ahegao",
+      "names": ["Ahegao", "Ahegao Face"],
+      "file_tray_image": "ahegao.webp",
+      "description": {
+        "en": "Ahegao is a style of artistic expression often found in anime and manga. It features characters with exaggerated facial expressions, typically conveying a range of intense emotions, including pleasure, ecstasy, or delirium. These expressions are known for their surreal and sometimes humorous nature, contributing to the unique visual language of certain genres.",
+        "pt": "Ahegao é um estilo de expressão artística frequentemente encontrado em anime e mangá. Ele apresenta personagens com expressões faciais exageradas, geralmente transmitindo uma variedade de emoções intensas, incluindo prazer, êxtase ou delírio. Essas expressões são conhecidas por sua natureza surreal e, às vezes, humorística, contribuindo para a linguagem visual única de certos gêneros.",
+        "es": "Ahegao es un estilo de expresión artística que se encuentra a menudo en anime y manga. Presenta personajes con expresiones faciales exageradas, que transmiten típicamente una variedad de emociones intensas, incluyendo placer, éxtasis o delirio. Estas expresiones son conocidas por su naturaleza surrealista y, a veces, humorística, contribuyendo al lenguaje visual único de ciertos géneros."
+      },
+      "genres": {
+        "en": ["Artistic Expression"],
+        "pt": ["Expressão Artística"],
+        "es": ["Expresión Artística"]
+      }
+    },
+    {
+      "id": "padoru",
+      "names": [
+        "Padoru",
+        "Santa Padoru"
+      ],
+      "file_tray_image": "padoru.webp",
+      "description": {
+        "en": "Padoru is a festive character often associated with Christmas. It features various anime characters dressed in Santa Claus outfits, with the term 'padoru padoru' mimicking the sound of footsteps or the jingling of bells during the holiday season.",
+        "pt": "Padoru é um personagem festivo frequentemente associado ao Natal. Ele apresenta vários personagens de anime vestidos com trajes de Papai Noel, com o termo 'padoru padoru' imitando o som de passos ou o tilintar de sinos durante a temporada de festas.",
+        "es": "Padoru es un personaje festivo frecuentemente asociado con la Navidad. Presenta varios personajes de anime vestidos con trajes de Papá Noel, con el término 'padoru padoru' imitando el sonido de pasos o el tintineo de campanas durante la temporada navideña."
+      },
+      "genres": {
+        "en": [
+          "Festive",
+          "Christmas",
+          "Anime"
+        ],
+        "pt": [
+          "Festivo",
+          "Natal",
+          "Anime"
+        ],
+        "es": [
+          "Festivo",
+          "Navidad",
+          "Anime"
+        ]
+      }
+    }
+  ]
+}

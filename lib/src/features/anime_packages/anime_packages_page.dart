@@ -39,7 +39,7 @@ class AnimePackagesPage extends StatelessWidget {
             child: Row(
               mainAxisAlignment: MainAxisAlignment.spaceBetween,
               children: [
-                const CardPhotoAnime(isCoverPhoto: true),
+                // const CardPhotoAnime(isCoverPhoto: true),
                 const SizedBox(
                   width: 24,
                 ),

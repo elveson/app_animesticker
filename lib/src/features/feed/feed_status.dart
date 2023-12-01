@@ -1,17 +1,23 @@
-import 'package:app_animesticker/src/model/sticker_pack_model.dart';
+import 'package:app_animesticker/src/model/sticker_data_model.dart';
 
 enum FeedStateStatus { loaded, error }
 
 class FeedState {
   final FeedStateStatus status;
-  final List<StickerPackModel> stickerPacks;
+  final StickerDataModel stickersData;
 
-  FeedState({required this.status, required this.stickerPacks});
+  FeedState({
+    required this.status,
+    required this.stickersData,
+  });
 
-  FeedState copyWith(
-      {FeedStateStatus? status, List<StickerPackModel>? stickerPacks}) {
+  FeedState copyWith({
+    FeedStateStatus? status,
+    StickerDataModel? stickersData,
+  }) {
     return FeedState(
-        status: status ?? this.status,
-        stickerPacks: stickerPacks ?? this.stickerPacks);
+      status: status ?? this.status,
+      stickersData: stickersData ?? this.stickersData,
+    );
   }
 }

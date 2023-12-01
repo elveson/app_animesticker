@@ -2,9 +2,12 @@ import 'package:flutter/material.dart';
 
 class CardPhotoAnime extends StatelessWidget {
   final bool isCoverPhoto;
+  final String imagePath;
+
   const CardPhotoAnime({
     super.key,
     this.isCoverPhoto = false,
+    required this.imagePath,
   });
 
   @override
@@ -19,8 +22,8 @@ class CardPhotoAnime extends StatelessWidget {
                 topLeft: Radius.circular(10),
                 topRight: Radius.circular(10),
               ),
-        image: const DecorationImage(
-          image: NetworkImage('https://source.unsplash.com/random/300x200'),
+        image: DecorationImage(
+          image: AssetImage('assets/anime_profile/images/$imagePath'),
           fit: BoxFit.cover,
         ),
       ),

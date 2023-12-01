@@ -8,6 +8,7 @@ sealed class AnimeStickerTheme {
     primaryColor: ColorsConstantsLight.colorPrimary,
     appBarTheme: const AppBarTheme(
       centerTitle: true,
+      surfaceTintColor: Colors.transparent,
       backgroundColor: ColorsConstantsLight.colorGrayLight,
     ),
     scaffoldBackgroundColor: ColorsConstantsLight.colorGrayMedium,
@@ -58,6 +59,17 @@ sealed class AnimeStickerTheme {
           borderRadius: BorderRadius.circular(30),
         ),
         padding: const EdgeInsets.symmetric(vertical: 18, horizontal: 24),
+      ),
+    ),
+    listTileTheme: const ListTileThemeData(
+      iconColor: ColorsConstantsLight.colorText,
+      textColor: ColorsConstantsLight.colorText,
+      minVerticalPadding: 16,
+      contentPadding: EdgeInsets.symmetric(horizontal: 24),
+      titleTextStyle: TextStyle(
+        fontFamily: FontConstants.fontFamily,
+        fontSize: 17,
+        letterSpacing: -0.408,
       ),
     ),
     fontFamily: GoogleFonts.openSans().fontFamily,

@@ -6,13 +6,22 @@ import 'package:app_animesticker/src/core/widgets/sticker_content.dart';
 import 'package:app_animesticker/src/features/package/widget/button_add_sticker.dart';
 
 import 'package:app_animesticker/src/features/package/widget/label_package.dart';
+import 'package:app_animesticker/src/model/sticker_pack_model.dart';
 import 'package:flutter/material.dart';
 
 class PackagePage extends StatelessWidget {
-  const PackagePage({super.key});
+  // final StickerPackModel stickerPack;
+
+  const PackagePage({
+    super.key,
+    // required this.stickerPack,
+  });
 
   @override
   Widget build(BuildContext context) {
+    final stickerPackModel =
+        ModalRoute.of(context)!.settings.arguments as StickerPackModel;
+    // as StickerPackModel;
     return Scaffold(
       appBar: AppBar(
         title: const Logo(),
@@ -47,9 +56,13 @@ class PackagePage extends StatelessWidget {
       ),
       body: Column(
         children: [
-          const Padding(
-            padding: EdgeInsets.only(top: 26),
-            child: Center(child: /*PackageIcon()*/ null),
+          Padding(
+            padding: const EdgeInsets.only(top: 26),
+            child: Center(
+                child: PackageIcon(
+              icon: stickerPackModel.trayImageFile,
+              namePackage: stickerPackModel.identifier,
+            )),
           ),
           Padding(
             padding: const EdgeInsets.symmetric(
@@ -70,9 +83,11 @@ class PackagePage extends StatelessWidget {
                     borderRadius: BorderRadius.circular(25),
                     color: ColorsConstantsLight.colorGrayLight,
                   ),
-                  child: const Text(
-                    'Nome do pacote',
-                    style: TextStyle(
+                  child: Text(
+                    stickerPackModel.name,
+                    maxLines: 1,
+                    textAlign: TextAlign.center,
+                    style: const TextStyle(
                       fontFamily: FontConstants.fontFamily,
                       color: ColorsConstantsLight.colorText,
                       fontSize: 16,
@@ -85,12 +100,14 @@ class PackagePage extends StatelessWidget {
                 const SizedBox(
                   height: 8,
                 ),
-                const Row(
+                Row(
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
                   children: [
-                    LabelPackage(textLabel: '300kb'),
-                    LabelPackage(textLabel: '30 Stickers'),
-                    LabelPackage(textLabel: 'by Tubaraum'),
+                    const LabelPackage(textLabel: '300kb'),
+                    LabelPackage(
+                        textLabel:
+                            '${stickerPackModel.stickers.length} Stickers'),
+                    const LabelPackage(textLabel: 'by Tubaraum'),
                   ],
                 ),
               ],
@@ -108,7 +125,7 @@ class PackagePage extends StatelessWidget {
                         return GridView.builder(
                           physics: const NeverScrollableScrollPhysics(),
                           shrinkWrap: true,
-                          itemCount: 30,
+                          itemCount: stickerPackModel.stickers.length,
                           gridDelegate:
                               const SliverGridDelegateWithFixedCrossAxisCount(
                             crossAxisCount: 4,
@@ -118,9 +135,14 @@ class PackagePage extends StatelessWidget {
                           itemBuilder: (context, index) {
                             return InkWell(
                               onTap: () {},
-                              child: const StickerContent(
+                              child: StickerContent(
                                 widthSticker: 72,
                                 heightSticker: 72,
+                                pathPackage: stickerPackModel.identifier,
+                                pathSticker:
+                                    stickerPackModel.stickers[index].imageFile,
+                                amountSticker:
+                                    stickerPackModel.stickers.length.toString(),
                               ),
                             );
                           },

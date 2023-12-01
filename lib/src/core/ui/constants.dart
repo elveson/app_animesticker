@@ -15,8 +15,10 @@ sealed class ColorsConstantsLight {
   static const colorGrayLight = Color(0xFFF6F6F9);
   static const colorGrayMedium = Color(0xFFECECEE);
   static const colorPrimary = Color(0xFFBA0000);
-  static const colorText = Color(0xFF252525);
+  static const colorbackgoundMenu = Color(0xFFE3D8D2);
+  static const subtle1 = Color(0xFF61646B);
   static const subtle2 = Color(0xFFAFB1B6);
+  static const colorText = Color(0xFF252525);
   static const colorPurple = Color(0xFF9B59B6);
   static const colorBlack = Color(0xFF000000);
   static const colorSurface = Color(0xFFFAFAFA);

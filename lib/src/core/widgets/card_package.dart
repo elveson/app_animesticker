@@ -4,6 +4,7 @@ import 'package:app_animesticker/src/core/widgets/sticker_content.dart';
 import 'package:app_animesticker/src/model/sticker_pack_model.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
+import 'package:whatsapp_stickers_handler/whatsapp_stickers_handler.dart';
 
 class CardPackage extends StatelessWidget {
   final StickerPackModel stickerPack;
@@ -15,6 +16,14 @@ class CardPackage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    final WhatsappStickersHandler wasticker = WhatsappStickersHandler();
+    Future<bool> isStickerPackInstalled() async {
+      final result = await wasticker.isStickerPackInstalled(
+        stickerPack.identifier,
+      );
+      return result;
+    }
+
     return Container(
       margin: const EdgeInsets.fromLTRB(16, 16, 16, 0),
       decoration: BoxDecoration(
@@ -22,7 +31,7 @@ class CardPackage extends StatelessWidget {
       ),
       child: InkWell(
         onTap: () {
-          Navigator.pushNamed(context, '/package');
+          Navigator.pushNamed(context, '/package', arguments: stickerPack);
         },
         borderRadius: BorderRadius.circular(15),
         child: Container(
@@ -67,7 +76,6 @@ class CardPackage extends StatelessWidget {
                             height: 8,
                           ),
                           Row(
-                            // final stickerLenght = stickerPack.stickers.length;
                             mainAxisAlignment: MainAxisAlignment.spaceBetween,
                             children: [
                               StickerContent(
@@ -132,21 +140,47 @@ class CardPackage extends StatelessWidget {
                           ),
                         ],
                       ),
-                      OutlinedButton.icon(
-                        onPressed: () {},
-                        icon: const ImageIcon(
-                          AssetImage("assets/icons/whatsapp.png"),
-                          color: ColorsConstantsLight.colorPrimary,
-                          size: 11.06,
-                        ),
-                        label: Text(
-                          "Steal package",
-                          style: TextStyle(
-                            fontFamily: GoogleFonts.openSans().fontFamily,
-                            fontWeight: FontWeight.w600,
-                            fontSize: 10,
-                            letterSpacing: -0.5,
+                      Offstage(
+                        child: OutlinedButton.icon(
+                          onPressed: () async {
+                            Map<String, List<String>> stickers =
+                                <String, List<String>>{};
+                            for (var e in stickerPack.stickers) {
+                              stickers[WhatsappStickerImageHandler.fromAsset(
+                                      "assets/packages/${stickerPack.identifier}/${e.imageFile}")
+                                  .path] = e.emojis;
+                              print(
+                                  "assets/packages/${stickerPack.identifier}/${e.imageFile}");
+                            }
+                            final tryImage = WhatsappStickerImageHandler.fromAsset(
+                                    "assets/packages/${stickerPack.identifier}/${stickerPack.trayImageFile}")
+                                .path;
+                            await wasticker.addStickerPack(
+                              stickerPack.identifier,
+                              stickerPack.name,
+                              stickerPack.publisher,
+                              tryImage,
+                              stickerPack.publisherWebsite,
+                              stickerPack.privacyPolicyWebsite,
+                              stickerPack.licenseAgreementWebsite,
+                              stickerPack.animatedStickerPack ?? false,
+                              stickers,
+                            );
+                          },
+                          icon: const ImageIcon(
+                            AssetImage("assets/icons/whatsapp.png"),
                             color: ColorsConstantsLight.colorPrimary,
+                            size: 11.06,
+                          ),
+                          label: Text(
+                            "Steal package",
+                            style: TextStyle(
+                              fontFamily: GoogleFonts.openSans().fontFamily,
+                              fontWeight: FontWeight.w600,
+                              fontSize: 10,
+                              letterSpacing: -0.5,
+                              color: ColorsConstantsLight.colorPrimary,
+                            ),
                           ),
                         ),
                       ),

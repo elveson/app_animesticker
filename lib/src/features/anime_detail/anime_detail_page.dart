@@ -42,8 +42,8 @@ class AnimeDetailPage extends StatelessWidget {
               child: Column(
                 children: [
                   const Center(
-                    child: CardPhotoAnime(isCoverPhoto: true),
-                  ),
+                      // child: CardPhotoAnime(isCoverPhoto: true),
+                      ),
                   const SizedBox(
                     height: 24,
                   ),
