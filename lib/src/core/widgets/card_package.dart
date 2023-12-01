@@ -1,6 +1,7 @@
 import 'package:app_animesticker/src/core/ui/constants.dart';
 import 'package:app_animesticker/src/core/widgets/package_icon_content.dart';
 import 'package:app_animesticker/src/core/widgets/sticker_content.dart';
+import 'package:app_animesticker/src/model/anime_model.dart';
 import 'package:app_animesticker/src/model/sticker_pack_model.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
@@ -8,10 +9,12 @@ import 'package:whatsapp_stickers_handler/whatsapp_stickers_handler.dart';
 
 class CardPackage extends StatelessWidget {
   final StickerPackModel stickerPack;
+  final AnimeModel anime;
 
   const CardPackage({
     super.key,
     required this.stickerPack,
+    required this.anime,
   });
 
   @override
@@ -121,8 +124,10 @@ class CardPackage extends StatelessWidget {
                     children: [
                       Row(
                         children: [
-                          const SizedBox(
+                          SizedBox(
                             child: CircleAvatar(
+                              backgroundImage: AssetImage(
+                                  'assets/anime_profile/images/${anime.fileTrayImage}'),
                               maxRadius: 16,
                             ),
                           ),
@@ -130,7 +135,7 @@ class CardPackage extends StatelessWidget {
                             width: 8,
                           ),
                           Text(
-                            stickerPack.identifier.split('_')[1],
+                            anime.names[0],
                             // stickerPack.identifier.split('_').getRange(1, stickerPack.identifier.split('_').length - 1).join(' ')
                             style: const TextStyle(
                               fontSize: 11,
@@ -140,47 +145,45 @@ class CardPackage extends StatelessWidget {
                           ),
                         ],
                       ),
-                      Offstage(
-                        child: OutlinedButton.icon(
-                          onPressed: () async {
-                            Map<String, List<String>> stickers =
-                                <String, List<String>>{};
-                            for (var e in stickerPack.stickers) {
-                              stickers[WhatsappStickerImageHandler.fromAsset(
-                                      "assets/packages/${stickerPack.identifier}/${e.imageFile}")
-                                  .path] = e.emojis;
-                              print(
-                                  "assets/packages/${stickerPack.identifier}/${e.imageFile}");
-                            }
-                            final tryImage = WhatsappStickerImageHandler.fromAsset(
-                                    "assets/packages/${stickerPack.identifier}/${stickerPack.trayImageFile}")
-                                .path;
-                            await wasticker.addStickerPack(
-                              stickerPack.identifier,
-                              stickerPack.name,
-                              stickerPack.publisher,
-                              tryImage,
-                              stickerPack.publisherWebsite,
-                              stickerPack.privacyPolicyWebsite,
-                              stickerPack.licenseAgreementWebsite,
-                              stickerPack.animatedStickerPack ?? false,
-                              stickers,
-                            );
-                          },
-                          icon: const ImageIcon(
-                            AssetImage("assets/icons/whatsapp.png"),
+                      OutlinedButton.icon(
+                        onPressed: () async {
+                          Map<String, List<String>> stickers =
+                              <String, List<String>>{};
+                          for (var e in stickerPack.stickers) {
+                            stickers[WhatsappStickerImageHandler.fromAsset(
+                                    "assets/packages/${stickerPack.identifier}/${e.imageFile}")
+                                .path] = e.emojis;
+                            print(
+                                "assets/packages/${stickerPack.identifier}/${e.imageFile}");
+                          }
+                          final tryImage = WhatsappStickerImageHandler.fromAsset(
+                                  "assets/packages/${stickerPack.identifier}/${stickerPack.trayImageFile}")
+                              .path;
+                          await wasticker.addStickerPack(
+                            stickerPack.identifier,
+                            stickerPack.name,
+                            stickerPack.publisher,
+                            tryImage,
+                            stickerPack.publisherWebsite,
+                            stickerPack.privacyPolicyWebsite,
+                            stickerPack.licenseAgreementWebsite,
+                            stickerPack.animatedStickerPack ?? false,
+                            stickers,
+                          );
+                        },
+                        icon: const ImageIcon(
+                          AssetImage("assets/icons/whatsapp.png"),
+                          color: ColorsConstantsLight.colorPrimary,
+                          size: 11.06,
+                        ),
+                        label: Text(
+                          "Steal package",
+                          style: TextStyle(
+                            fontFamily: GoogleFonts.openSans().fontFamily,
+                            fontWeight: FontWeight.w600,
+                            fontSize: 10,
+                            letterSpacing: -0.5,
                             color: ColorsConstantsLight.colorPrimary,
-                            size: 11.06,
-                          ),
-                          label: Text(
-                            "Steal package",
-                            style: TextStyle(
-                              fontFamily: GoogleFonts.openSans().fontFamily,
-                              fontWeight: FontWeight.w600,
-                              fontSize: 10,
-                              letterSpacing: -0.5,
-                              color: ColorsConstantsLight.colorPrimary,
-                            ),
                           ),
                         ),
                       ),
