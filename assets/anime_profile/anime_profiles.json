@@ -854,6 +854,35 @@
           "Arquetipo de Personaje"
         ]
       }
+    },
+    {
+      "id": "dr_stone",
+      "names": [
+        "Dr. Stone"
+      ],
+      "file_tray_image": "drstone.webp",
+      "description": {
+        "en": "Dr. Stone is a science fiction anime set in a world where a mysterious event turns all of humanity into stone statues. Thousands of years later, high school student Senku Ishigami awakens to find himself unaffected by the petrification. With his scientific knowledge and determination to rebuild civilization, Senku sets out to revive humanity and rediscover the wonders of science. Alongside his friends, Senku faces challenges, uncovers the secrets of the petrification, and strives to create a new era known as the 'Stone World.'",
+        "pt": "Dr. Stone é um anime de ficção científica ambientado em um mundo onde um evento misterioso transforma toda a humanidade em estátuas de pedra. Milhares de anos depois, o estudante do ensino médio Senku Ishigami desperta para se descobrir não afetado pela petrificação. Com seu conhecimento científico e determinação para reconstruir a civilização, Senku embarca na missão de reviver a humanidade e redescobrir as maravilhas da ciência. Ao lado de seus amigos, Senku enfrenta desafios, desvenda os segredos da petrificação e se esforça para criar uma nova era conhecida como o 'Mundo de Pedra'.",
+        "es": "Dr. Stone es un anime de ciencia ficción ambientado en un mundo donde un evento misterioso convierte a toda la humanidad en estatuas de piedra. Miles de años después, el estudiante de secundaria Senku Ishigami despierta para descubrir que no ha sido afectado por la petrificación. Con su conocimiento científico y determinación para reconstruir la civilización, Senku se propone revivir la humanidad y redescubrir las maravillas de la ciencia. Junto a sus amigos, Senku enfrenta desafíos, descubre los secretos de la petrificación y se esfuerza por crear una nueva era conocida como el 'Mundo de Piedra'."
+      },
+      "genres": {
+        "en": [
+          "Science Fiction",
+          "Adventure",
+          "Drama"
+        ],
+        "pt": [
+          "Ficção Científica",
+          "Aventura",
+          "Drama"
+        ],
+        "es": [
+          "Ciencia Ficción",
+          "Aventura",
+          "Drama"
+        ]
+      }
     }
   ]
 }

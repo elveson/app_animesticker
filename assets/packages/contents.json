@@ -3458,6 +3458,7 @@
     },
     {
       "identifier": "Anime_Boku_No_Hero_I",
+      "anime_identifier": "boku_no_hero",
       "name": "Anime Boku No Hero I\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "byTubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -3575,6 +3576,7 @@
     },
     {
       "identifier": "Anime_Boku_No_Hero_II",
+      "anime_identifier": "boku_no_hero",
       "name": "Anime Boku No Hero II\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "byTubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -3692,6 +3694,7 @@
     },
     {
       "identifier": "Anime_Boku_No_Hero_III",
+      "anime_identifier": "boku_no_hero",
       "name": "Anime Boku No Hero III\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "byTubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -3807,242 +3810,11 @@
         }
       ]
     },
-    {
-      "identifier": "Anime_Combos_I__reultilizado",
-      "name": "Anime Combo I (reultilizado)\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
-      "publisher": "byTubaraum on Play Store",
-      "tray_image_file": "icone.png",
-      "publisher_email": "dudesign.dd@gmail.com",
-      "publisher_website": "https://www.bytubaraum.com",
-      "privacy_policy_website": "https://www.bytubaraum.com",
-      "license_agreement_website": "https://www.bytubaraum.com",
-      "stickers": [
-        {
-          "image_file": "sticker_001.webp",
-          "emojis": [
-            "\uD83C\uDDEF\uD83C\uDDF5",
-            "\uD83C\uDDF0\uD83C\uDDF7"
-          ]
-        },
-        {
-          "image_file": "sticker_002.webp",
-          "emojis": [
-            "\uD83C\uDDEF\uD83C\uDDF5",
-            "\uD83C\uDDF0\uD83C\uDDF7"
-          ]
-        },
-        {
-          "image_file": "sticker_003.webp",
-          "emojis": [
-            "\uD83C\uDDEF\uD83C\uDDF5",
-            "\uD83C\uDDF0\uD83C\uDDF7"
-          ]
-        },
-        {
-          "image_file": "sticker_004.webp",
-          "emojis": [
-            "\uD83C\uDDEF\uD83C\uDDF5",
-            "\uD83C\uDDF0\uD83C\uDDF7"
-          ]
-        },
-        {
-          "image_file": "sticker_005.webp",
-          "emojis": [
-            "\uD83C\uDDEF\uD83C\uDDF5",
-            "\uD83C\uDDF0\uD83C\uDDF7"
-          ]
-        },
-        {
-          "image_file": "sticker_006.webp",
-          "emojis": [
-            "\uD83C\uDDEF\uD83C\uDDF5",
-            "\uD83C\uDDF0\uD83C\uDDF7"
-          ]
-        },
-        {
-          "image_file": "sticker_007.webp",
-          "emojis": [
-            "\uD83C\uDDEF\uD83C\uDDF5",
-            "\uD83C\uDDF0\uD83C\uDDF7"
-          ]
-        },
-        {
-          "image_file": "sticker_008.webp",
-          "emojis": [
-            "\uD83C\uDDEF\uD83C\uDDF5",
-            "\uD83C\uDDF0\uD83C\uDDF7"
-          ]
-        },
-        {
-          "image_file": "sticker_009.webp",
-          "emojis": [
-            "\uD83C\uDDEF\uD83C\uDDF5",
-            "\uD83C\uDDF0\uD83C\uDDF7"
-          ]
-        },
-        {
-          "image_file": "sticker_010.webp",
-          "emojis": [
-            "\uD83C\uDDEF\uD83C\uDDF5",
-            "\uD83C\uDDF0\uD83C\uDDF7"
-          ]
-        },
-        {
-          "image_file": "sticker_011.webp",
-          "emojis": [
-            "\uD83C\uDDEF\uD83C\uDDF5",
-            "\uD83C\uDDF0\uD83C\uDDF7"
-          ]
-        },
-        {
-          "image_file": "sticker_012.webp",
-          "emojis": [
-            "\uD83C\uDDEF\uD83C\uDDF5",
-            "\uD83C\uDDF0\uD83C\uDDF7"
-          ]
-        },
-        {
-          "image_file": "sticker_013.webp",
-          "emojis": [
-            "\uD83C\uDDEF\uD83C\uDDF5",
-            "\uD83C\uDDF0\uD83C\uDDF7"
-          ]
-        },
-        {
-          "image_file": "sticker_014.webp",
-          "emojis": [
-            "\uD83C\uDDEF\uD83C\uDDF5",
-            "\uD83C\uDDF0\uD83C\uDDF7"
-          ]
-        },
-        {
-          "image_file": "sticker_015.webp",
-          "emojis": [
-            "\uD83C\uDDEF\uD83C\uDDF5",
-            "\uD83C\uDDF0\uD83C\uDDF7"
-          ]
-        }
-      ]
-    },
-    {
-      "identifier": "Anime_Combos_II__reutilizado",
-      "name": "Anime Combo II (reultilizado)\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
-      "publisher": "byTubaraum on Play Store",
-      "tray_image_file": "icone.png",
-      "publisher_email": "dudesign.dd@gmail.com",
-      "publisher_website": "https://www.bytubaraum.com",
-      "privacy_policy_website": "https://www.bytubaraum.com",
-      "license_agreement_website": "https://www.bytubaraum.com",
-      "stickers": [
-        {
-          "image_file": "sticker_001.webp",
-          "emojis": [
-            "\uD83C\uDDEF\uD83C\uDDF5",
-            "\uD83C\uDDF0\uD83C\uDDF7"
-          ]
-        },
-        {
-          "image_file": "sticker_002.webp",
-          "emojis": [
-            "\uD83C\uDDEF\uD83C\uDDF5",
-            "\uD83C\uDDF0\uD83C\uDDF7"
-          ]
-        },
-        {
-          "image_file": "sticker_003.webp",
-          "emojis": [
-            "\uD83C\uDDEF\uD83C\uDDF5",
-            "\uD83C\uDDF0\uD83C\uDDF7"
-          ]
-        },
-        {
-          "image_file": "sticker_004.webp",
-          "emojis": [
-            "\uD83C\uDDEF\uD83C\uDDF5",
-            "\uD83C\uDDF0\uD83C\uDDF7"
-          ]
-        },
-        {
-          "image_file": "sticker_005.webp",
-          "emojis": [
-            "\uD83C\uDDEF\uD83C\uDDF5",
-            "\uD83C\uDDF0\uD83C\uDDF7"
-          ]
-        },
-        {
-          "image_file": "sticker_006.webp",
-          "emojis": [
-            "\uD83C\uDDEF\uD83C\uDDF5",
-            "\uD83C\uDDF0\uD83C\uDDF7"
-          ]
-        },
-        {
-          "image_file": "sticker_007.webp",
-          "emojis": [
-            "\uD83C\uDDEF\uD83C\uDDF5",
-            "\uD83C\uDDF0\uD83C\uDDF7"
-          ]
-        },
-        {
-          "image_file": "sticker_008.webp",
-          "emojis": [
-            "\uD83C\uDDEF\uD83C\uDDF5",
-            "\uD83C\uDDF0\uD83C\uDDF7"
-          ]
-        },
-        {
-          "image_file": "sticker_009.webp",
-          "emojis": [
-            "\uD83C\uDDEF\uD83C\uDDF5",
-            "\uD83C\uDDF0\uD83C\uDDF7"
-          ]
-        },
-        {
-          "image_file": "sticker_010.webp",
-          "emojis": [
-            "\uD83C\uDDEF\uD83C\uDDF5",
-            "\uD83C\uDDF0\uD83C\uDDF7"
-          ]
-        },
-        {
-          "image_file": "sticker_011.webp",
-          "emojis": [
-            "\uD83C\uDDEF\uD83C\uDDF5",
-            "\uD83C\uDDF0\uD83C\uDDF7"
-          ]
-        },
-        {
-          "image_file": "sticker_012.webp",
-          "emojis": [
-            "\uD83C\uDDEF\uD83C\uDDF5",
-            "\uD83C\uDDF0\uD83C\uDDF7"
-          ]
-        },
-        {
-          "image_file": "sticker_013.webp",
-          "emojis": [
-            "\uD83C\uDDEF\uD83C\uDDF5",
-            "\uD83C\uDDF0\uD83C\uDDF7"
-          ]
-        },
-        {
-          "image_file": "sticker_014.webp",
-          "emojis": [
-            "\uD83C\uDDEF\uD83C\uDDF5",
-            "\uD83C\uDDF0\uD83C\uDDF7"
-          ]
-        },
-        {
-          "image_file": "sticker_015.webp",
-          "emojis": [
-            "\uD83C\uDDEF\uD83C\uDDF5",
-            "\uD83C\uDDF0\uD83C\uDDF7"
-          ]
-        }
-      ]
-    },
+
+
     {
       "identifier": "Anime_Darling_in_the_Franx_I",
+      "anime_identifier": "darling_in_the_franxx",
       "name": "Anime Darling in the Franxx I\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -4160,6 +3932,7 @@
     },
     {
       "identifier": "Anime_Darling_in_the_Franx_II",
+      "anime_identifier": "darling_in_the_franxx",
       "name": "Anime Darling in the Franxx II\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -4277,6 +4050,7 @@
     },
     {
       "identifier": "Anime_Darling_in_the_Franx_III",
+      "anime_identifier": "darling_in_the_franxx",
       "name": "Anime Darling in the Franxx III\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -4394,6 +4168,7 @@
     },
     {
       "identifier": "Anime_Darling_in_the_Franx_IV",
+      "anime_identifier": "darling_in_the_franxx",
       "name": "Anime Darling in the Franxx IV\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -4511,6 +4286,7 @@
     },
     {
       "identifier": "Anime_Death_Note",
+      "anime_identifier": "darling_in_the_franxx",
       "name": "Anime Death Note\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -4635,6 +4411,7 @@
     },
     {
       "identifier": "Anime_Dr_Stone_I",
+      "anime_identifier": "dr_stone",
       "name": "Anime Dr. Stone I\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -4752,6 +4529,7 @@
     },
     {
       "identifier": "Anime_Dr_Stone_II",
+      "anime_identifier": "dr_stone",
       "name": "Anime Dr. Stone II\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -4869,6 +4647,7 @@
     },
     {
       "identifier": "Anime_Elfen_Lied_I",
+      "anime_identifier": "elfen_lied",
       "name": "Anime Elfen Lied I\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -5091,6 +4870,7 @@
     },
     {
       "identifier": "Anime_Elfen_Lied_II",
+      "anime_identifier": "elfen_lied",
       "name": "Anime Elfen Lied II\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -5313,6 +5093,7 @@
     },
     {
       "identifier": "Anime_Elfen_Lied_III",
+      "anime_identifier": "elfen_lied",
       "name": "Anime Elfen Lied III\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -5535,6 +5316,7 @@
     },
     {
       "identifier": "Anime_Elfen_Lied_IV",
+      "anime_identifier": "elfen_lied",
       "name": "Anime Elfen Lied IV\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -5750,6 +5532,7 @@
     },
     {
       "identifier": "Anime_Fate_Prisma_Illya_I",
+      "anime_identifier": "fate_prisma_illya",
       "name": "Anime Fate Prisma Illya I\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -5888,6 +5671,7 @@
     },
     {
       "identifier": "Anime_Fate_Prisma_Illya_II",
+      "anime_identifier": "fate_prisma_illya",
       "name": "Anime Fate Prisma Illya II\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -7464,6 +7248,7 @@
     },
     {
       "identifier": "Anime_Karakai_Jouzu_I",
+      "anime_identifier": "takagi_san",
       "name": "Anime Karakai Jouzu I\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -7581,6 +7366,7 @@
     },
     {
       "identifier": "Anime_Karakai_Jouzu_II",
+      "anime_identifier": "takagi_san",
       "name": "Anime Karakai Jouzu II\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -7698,6 +7484,7 @@
     },
     {
       "identifier": "Anime_Karakai_Jouzu_III",
+      "anime_identifier": "takagi_san",
       "name": "Anime Karakai Jouzu III\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -8169,6 +7956,7 @@
     },
     {
       "identifier": "Anime_Lolis_Reacoes_I",
+      "anime_identifier": "lolis",
       "name": "Anime Lolis Reações I\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -8286,6 +8074,7 @@
     },
     {
       "identifier": "Anime_Lolis_Reacoes_II",
+      "anime_identifier": "lolis",
       "name": "Anime Lolis Reações II\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -8403,6 +8192,7 @@
     },
     {
       "identifier": "Anime_Lolis_Reacoes_III",
+      "anime_identifier": "lolis",
       "name": "Anime Lolis Reações III\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -8520,6 +8310,7 @@
     },
     {
       "identifier": "Anime_Lolis_Reacoes_IV",
+      "anime_identifier": "lolis",
       "name": "Anime Lolis Reações IV\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -8637,6 +8428,7 @@
     },
     {
       "identifier": "Anime_Lolis_Reacoes_V",
+      "anime_identifier": "lolis",
       "name": "Anime Lolis Reações V\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
@@ -12295,6 +12087,7 @@
     },
     {
       "identifier": "Game_Doki_Doki_Literature_Club",
+      "anime_identifier": "doki_doki_literature",
       "name": "Game Doki Doki Literature Club\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
       "publisher": "by Tubaraum on Play Store",
       "tray_image_file": "icone.png",
