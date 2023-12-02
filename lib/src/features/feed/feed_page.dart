@@ -147,6 +147,9 @@ class _FeedPageState extends ConsumerState<FeedPage> {
                 childCount: data.stickersData.stickersPacks.length +
                     (_nativeAd != null ? 1 : 0),
                 (context, index) {
+                  final animeIdentifier =
+                      data.stickersData.stickersPacks[index].animeIdentifier;
+
                   if ((index + 1) % 4 == 0) {
                     return Container(
                       // height: 156.1435,
@@ -168,8 +171,13 @@ class _FeedPageState extends ConsumerState<FeedPage> {
                       ),
                     );
                   } else {
+                    log(index.toString());
                     return CardPackage(
-                        stickerPack: data.stickersData.stickersPacks[index]);
+                      stickerPack: data.stickersData.stickersPacks[index],
+                      anime: data.stickersData.animesModel.firstWhere(
+                        (anime) => anime.id == animeIdentifier,
+                      ),
+                    );
                   }
                 },
               ),
