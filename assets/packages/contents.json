@@ -12209,6 +12209,759 @@
           ]
         }
       ]
+    },
+    {
+      "identifier": "Padoru_Padoru_I",
+      "anime_identifier": "padoru",
+      "name": "Padoru Pack 01\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
+      "publisher": "Ottamaker on Play Store",
+      "tray_image_file": "icone.png",
+      "publisher_email": "dudesign.dd@gmail.com",
+      "publisher_website": "https://www.bytubaraum.com",
+      "privacy_policy_website": "https://www.bytubaraum.com",
+      "license_agreement_website": "https://www.bytubaraum.com",
+      "stickers": [
+        {
+          "image_file": "sticker_001.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_002.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_003.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_004.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_005.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_006.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_007.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_008.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_009.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_010.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_011.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_012.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_013.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_014.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_015.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_016.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_017.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_018.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_019.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_020.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_021.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_022.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_023.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_024.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_025.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_026.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_027.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_028.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_029.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_030.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "Padoru_Padoru_II",
+      "anime_identifier": "padoru",
+      "name": "Padoru Pack 02\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
+      "publisher": "Ottamaker on Play Store",
+      "tray_image_file": "icone.png",
+      "publisher_email": "dudesign.dd@gmail.com",
+      "publisher_website": "https://www.bytubaraum.com",
+      "privacy_policy_website": "https://www.bytubaraum.com",
+      "license_agreement_website": "https://www.bytubaraum.com",
+      "stickers": [
+        {
+          "image_file": "sticker_001.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_002.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_003.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_004.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_005.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_006.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_007.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_008.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_009.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_010.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_011.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_012.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_013.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_014.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_015.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_016.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_017.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_018.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_019.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_020.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_021.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_022.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_023.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_024.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_025.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_026.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_027.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_028.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_029.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_030.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "Padoru_Padoru_III",
+      "anime_identifier": "padoru",
+      "name": "Padoru Pack 03\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
+      "publisher": "Ottamaker on Play Store",
+      "tray_image_file": "icone.png",
+      "publisher_email": "dudesign.dd@gmail.com",
+      "publisher_website": "https://www.bytubaraum.com",
+      "privacy_policy_website": "https://www.bytubaraum.com",
+      "license_agreement_website": "https://www.bytubaraum.com",
+      "stickers": [
+        {
+          "image_file": "sticker_001.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_002.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_003.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_004.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_005.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_006.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_007.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_008.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_009.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_010.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_011.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_012.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_013.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_014.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_015.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_016.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_017.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_018.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_019.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_020.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_021.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_022.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_023.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_024.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_025.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_026.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_027.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_028.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_029.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_030.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "Padoru_Padoru_IV",
+      "anime_identifier": "padoru",
+      "name": "Padoru Pack 04\nDownload more to view More ↘\nBaixe mais em ver mais ↘",
+      "publisher": "Ottamaker on Play Store",
+      "tray_image_file": "icone.png",
+      "publisher_email": "dudesign.dd@gmail.com",
+      "publisher_website": "https://www.bytubaraum.com",
+      "privacy_policy_website": "https://www.bytubaraum.com",
+      "license_agreement_website": "https://www.bytubaraum.com",
+      "stickers": [
+        {
+          "image_file": "sticker_001.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_002.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_003.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_004.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_005.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_006.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_007.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_008.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_009.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        },
+        {
+          "image_file": "sticker_010.webp",
+          "emojis": [
+            "\uD83C\uDDEF\uD83C\uDDF5",
+            "\uD83C\uDDF0\uD83C\uDDF7"
+          ]
+        }
+      ]
     }
+
   ]
 }
