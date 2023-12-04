@@ -3,6 +3,7 @@ import 'package:app_animesticker/src/core/widgets/ads_content.dart';
 import 'package:app_animesticker/src/core/widgets/card_photo_anime.dart';
 import 'package:app_animesticker/src/features/anime_detail/widget/label_anime_widget.dart';
 import 'package:app_animesticker/src/core/widgets/logo.dart';
+import 'package:app_animesticker/src/model/anime_model.dart';
 import 'package:flutter/material.dart';
 
 class AnimeDetailPage extends StatelessWidget {
@@ -10,6 +11,7 @@ class AnimeDetailPage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    final anime = ModalRoute.of(context)!.settings.arguments as AnimeModel;
     return Scaffold(
       appBar: AppBar(
         title: const Logo(),
@@ -41,15 +43,16 @@ class AnimeDetailPage extends StatelessWidget {
               padding: const EdgeInsets.symmetric(horizontal: 30, vertical: 35),
               child: Column(
                 children: [
-                  const Center(
-                      // child: CardPhotoAnime(isCoverPhoto: true),
-                      ),
+                  Center(
+                    child: CardPhotoAnime(
+                        isCoverPhoto: true, imagePath: anime.fileTrayImage),
+                  ),
                   const SizedBox(
                     height: 24,
                   ),
-                  const Text(
-                    'Algum Anime',
-                    style: TextStyle(
+                  Text(
+                    anime.names[0],
+                    style: const TextStyle(
                       fontFamily: FontConstants.fontFamily,
                       fontSize: 17,
                       fontWeight: FontWeight.w600,
@@ -60,9 +63,9 @@ class AnimeDetailPage extends StatelessWidget {
                   const SizedBox(
                     height: 24,
                   ),
-                  const Text(
-                    'Lorem ipsum dolor sit amet consectetur. Sed a purus enim tristique. Nunc adipiscing aliquam tincidunt quis libero praesent sed accumsan. Ac faucibus at dui cras nisi. Elit facilisis neque massa et convallis. Diam sed lacinia erat in hac vehicula nunc gravida. Tempor habitasse et nibh ipsum urna pretium. Sociis ipsum eu volutpat donec elit mi. Euismod nunc suspendisse nulla tellus consectetur. Arcu mauris cursus nulla purus tellus pharetra tristique venenatis diam. Mauris vel dolor lectus id. Eget aliquet dignissim pellentesque vitae senectus placerat ultrices laoreet. Libero quam vulputate tempus vitae volutpat purus non arcu. Quam imperdiet sit donec eget lorem tellus ornare.',
-                    style: TextStyle(
+                  Text(
+                    anime.description.entries.first.value,
+                    style: const TextStyle(
                       fontFamily: FontConstants.fontFamily,
                       fontSize: 13,
                       fontWeight: FontWeight.w400,
@@ -73,14 +76,14 @@ class AnimeDetailPage extends StatelessWidget {
                   const SizedBox(
                     height: 24,
                   ),
-                  const Wrap(
+                  Wrap(
                     alignment: WrapAlignment.center,
                     spacing: 10,
-                    children: [
-                      LabelAnimeWidget(textLabel: 'Release'),
-                      LabelAnimeWidget(textLabel: 'Seasons'),
-                      LabelAnimeWidget(textLabel: 'Geres'),
-                    ],
+                    children: anime.genres.entries
+                        .where((entry) => entry.key == 'en')
+                        .expand((element) => element.value
+                            .map((e) => LabelAnimeWidget(textLabel: e)))
+                        .toList(),
                   ),
                   const SizedBox(
                     height: 24,

@@ -34,7 +34,8 @@ class CardPackage extends StatelessWidget {
       ),
       child: InkWell(
         onTap: () {
-          Navigator.pushNamed(context, '/package', arguments: stickerPack);
+          Navigator.pushNamed(context, '/package',
+              arguments: {'stickerPack': stickerPack, 'anime': anime});
         },
         borderRadius: BorderRadius.circular(15),
         child: Container(
