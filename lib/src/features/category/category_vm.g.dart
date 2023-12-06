@@ -6,7 +6,7 @@ part of 'category_vm.dart';
 // RiverpodGenerator
 // **************************************************************************
 
-String _$categoryVmHash() => r'327563f2ee868cabb71177920f2f84d8dea13fc8';
+String _$categoryVmHash() => r'e5ae8d271ab08f98f73953f7c5e36197ec850acd';
 
 /// See also [CategoryVm].
 @ProviderFor(CategoryVm)
