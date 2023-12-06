@@ -6,6 +6,7 @@ import 'package:app_animesticker/src/core/widgets/sticker_content.dart';
 import 'package:app_animesticker/src/features/package/widget/button_add_sticker.dart';
 
 import 'package:app_animesticker/src/features/package/widget/label_package.dart';
+import 'package:app_animesticker/src/model/anime_model.dart';
 import 'package:app_animesticker/src/model/sticker_pack_model.dart';
 import 'package:flutter/material.dart';
 
@@ -19,9 +20,11 @@ class PackagePage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    final stickerPackModel =
-        ModalRoute.of(context)!.settings.arguments as StickerPackModel;
-    // as StickerPackModel;
+    final args =
+        ModalRoute.of(context)!.settings.arguments as Map<String, dynamic>;
+    final stickerPack = args['stickerPack'] as StickerPackModel;
+    final anime = args['anime'] as AnimeModel;
+
     return Scaffold(
       appBar: AppBar(
         title: const Logo(),
@@ -29,7 +32,10 @@ class PackagePage extends StatelessWidget {
         actions: [
           IconButton(
             onPressed: () {
-              Navigator.pushNamed(context, '/anime/detail');
+              Navigator.pushNamed(context, '/anime/detail', arguments: {
+                'anime': anime,
+                'navigation': false,
+              });
             },
             icon: const ImageIcon(
               AssetImage('assets/icons/book_about.png'),
@@ -60,8 +66,8 @@ class PackagePage extends StatelessWidget {
             padding: const EdgeInsets.only(top: 26),
             child: Center(
                 child: PackageIcon(
-              icon: stickerPackModel.trayImageFile,
-              namePackage: stickerPackModel.identifier,
+              icon: stickerPack.trayImageFile,
+              namePackage: stickerPack.identifier,
             )),
           ),
           Padding(
@@ -84,7 +90,7 @@ class PackagePage extends StatelessWidget {
                     color: ColorsConstantsLight.colorGrayLight,
                   ),
                   child: Text(
-                    stickerPackModel.name,
+                    stickerPack.name,
                     maxLines: 1,
                     textAlign: TextAlign.center,
                     style: const TextStyle(
@@ -105,8 +111,7 @@ class PackagePage extends StatelessWidget {
                   children: [
                     const LabelPackage(textLabel: '300kb'),
                     LabelPackage(
-                        textLabel:
-                            '${stickerPackModel.stickers.length} Stickers'),
+                        textLabel: '${stickerPack.stickers.length} Stickers'),
                     const LabelPackage(textLabel: 'by Tubaraum'),
                   ],
                 ),
@@ -125,7 +130,7 @@ class PackagePage extends StatelessWidget {
                         return GridView.builder(
                           physics: const NeverScrollableScrollPhysics(),
                           shrinkWrap: true,
-                          itemCount: stickerPackModel.stickers.length,
+                          itemCount: stickerPack.stickers.length,
                           gridDelegate:
                               const SliverGridDelegateWithFixedCrossAxisCount(
                             crossAxisCount: 4,
@@ -138,11 +143,11 @@ class PackagePage extends StatelessWidget {
                               child: StickerContent(
                                 widthSticker: 72,
                                 heightSticker: 72,
-                                pathPackage: stickerPackModel.identifier,
+                                pathPackage: stickerPack.identifier,
                                 pathSticker:
-                                    stickerPackModel.stickers[index].imageFile,
+                                    stickerPack.stickers[index].imageFile,
                                 amountSticker:
-                                    stickerPackModel.stickers.length.toString(),
+                                    stickerPack.stickers.length.toString(),
                               ),
                             );
                           },
