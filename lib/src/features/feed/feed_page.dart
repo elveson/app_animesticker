@@ -135,7 +135,7 @@ class _FeedPageState extends ConsumerState<FeedPage> {
   @override
   Widget build(BuildContext context) {
     final feedState = ref.watch(feedVmProvider);
-
+    int adCount = 0;
     // final nativeAd = ref.watch(adMobServiceProvider);
     // nativeAd.loadNativeAd();
     return feedState.when(
@@ -144,13 +144,14 @@ class _FeedPageState extends ConsumerState<FeedPage> {
           slivers: [
             SliverList(
               delegate: SliverChildBuilderDelegate(
-                childCount: data.stickersData.stickersPacks.length +
-                    (_nativeAd != null ? 1 : 0),
+                childCount: (data.stickersData.stickersPacks.length +
+                        data.stickersData.stickersPacks.length ~/ 4)
+                    .ceil(),
                 (context, index) {
-                  final animeIdentifier =
-                      data.stickersData.stickersPacks[index].animeIdentifier;
+                  log((data.stickersData.stickersPacks.length).toString());
 
                   if ((index + 1) % 4 == 0) {
+                    adCount++;
                     return Container(
                       // height: 156.1435,
                       padding: const EdgeInsets.fromLTRB(16, 16, 16, 0),
@@ -164,16 +165,19 @@ class _FeedPageState extends ConsumerState<FeedPage> {
                           maxHeight: 156.1435,
                         ),
                         child: (_nativeAdIsLoaded && _nativeAd != null)
-                            ? AdWidget(
-                                ad: _nativeAd!,
-                              )
+                            ? const Text('data')
+                            // AdWidget(
+                            //     ad: _nativeAd!,
+                            //   )
                             : const CircularProgressIndicator(),
                       ),
                     );
                   } else {
-                    log(index.toString());
+                    int dataIndex = index - adCount;
+                    final animeIdentifier = data
+                        .stickersData.stickersPacks[dataIndex].animeIdentifier;
                     return CardPackage(
-                      stickerPack: data.stickersData.stickersPacks[index],
+                      stickerPack: data.stickersData.stickersPacks[dataIndex],
                       anime: data.stickersData.animesModel.firstWhere(
                         (anime) => anime.id == animeIdentifier,
                       ),

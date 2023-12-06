@@ -6,7 +6,7 @@ part of 'feed_vm.dart';
 // RiverpodGenerator
 // **************************************************************************
 
-String _$feedVmHash() => r'fbe12b20e2d7b04e68011ca07c371516bf87f1cc';
+String _$feedVmHash() => r'007c810d0b52774df5ec8f36714fe6b2fdf786ce';
 
 /// See also [FeedVm].
 @ProviderFor(FeedVm)
